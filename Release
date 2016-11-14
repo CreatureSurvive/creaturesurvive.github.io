@@ -1,0 +1,9 @@
+Origin: CreatureSurvive's Repo
+Label: CreatureSurvive's Repo
+Suite: stable
+Version: 1.0
+Codename: CreatureSurvive's Repo
+Architectures: iphoneos-arm
+Components: main
+Description: My Personal Repo
+Icon: file://CydiaIcon.png
