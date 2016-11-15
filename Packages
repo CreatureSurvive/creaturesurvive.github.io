@@ -6,9 +6,9 @@ Installed-Size: 384
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.0.8_iphoneos-arm.deb
 Size: 47064
-MD5sum: ef5eddd1cb3b5f489f833e972bd0a61d
-SHA1: f241269f863037b2262e63beb7ef76192e856095
-SHA256: 9aaffa76860eff9f8d294bbb425993cc92c085591defd94a213257dedb4a6370
+MD5sum: cf2a49888b9c62c293966e4129c0f61a
+SHA1: 09a89707db0fc06cabb93016c257b43282a4c39c
+SHA256: fcba84fd803ed937ddd4a03d09a79a74e92da6aab6336971e5bb987a23c9afb9
 Section: Tweaks
 Description: This tweak disables the annoying delete word function and enables rapid character deletion instantly.
 Author: CreatureSurvive <dbuehre@me.com>
@@ -23,9 +23,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.flatfields_0.0.5_iphoneos-arm.deb
 Size: 3812
-MD5sum: 74e824cc0864e9aa12de5e86c468b019
-SHA1: acef5e599de25a672c800fa9baa02a5cd1a2e127
-SHA256: b9063a4c81c0dd040788886d2294f67948975bf6bf92681b1ad21eee1ea59729
+MD5sum: 7f71705815d0a6ae94b872856614b281
+SHA1: 15222c6628d22a25a2a85c00e19940385265d9ca
+SHA256: f1c08172c124ac3096321226eef4a1338e089af5291431628d2634c8006ccdd9
 Section: Tweaks
 Description: Removes background bubbles from textfields system wide
 Author: CreatureSurvive <dbuehre@me.com>
@@ -40,9 +40,9 @@ Installed-Size: 384
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.intelligentpower_0.0.2_iphoneos-arm.deb
 Size: 44346
-MD5sum: 4c418f515cf8b1eb9a0a9921104f72bf
-SHA1: a8936d1076275ddc4923825569020866bd4838f4
-SHA256: 255c52ab977836a8a9f346f0372a57a2a0246ea2660bfc6ff81d6be434e399b0
+MD5sum: 2291fddb1c120f1933f19dbbd70204d6
+SHA1: 76b9f800dd7e5ba4d6ce676cbe65c37736088560
+SHA256: 3fb87ef23e5c694c2ebdc966c5a3c095502a83377ecec5822281650e7529d9d2
 Section: Tweaks
 Description: This is a beta package
 Author: CreatureSurvive <dbuehre@me.com>
@@ -57,9 +57,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.2_iphoneos-arm.deb
 Size: 5132
-MD5sum: 4b9fd63ef6205656f44d7b323cdf4472
-SHA1: f9945c119fdbf5d0c00a8db7297fc4346981c1ec
-SHA256: 346ff9fbefbffdb77f78a53027e7eca91e249f28ebab48fbb910b16459357437
+MD5sum: dc357ed690ec2d36d9396fb925f23d36
+SHA1: 99b59f7d48dc8ea5a12841fd8ff05f81fab062f6
+SHA256: 0cce2f1e64df2c145d5aad7543f0991d33d60121b791339fdc7aea35b0b92b86
 Section: Tweaks
 Description: removes airdrop section on share sheets(beta)
 Author: CreatureSurvive <dbuehre@me.com>
@@ -74,9 +74,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.2_iphoneos-arm.deb
 Size: 3106
-MD5sum: 56476a1b873d218d73ce335bcceb2df8
-SHA1: 8663412336f0e8b1ad3f5d8e14f8e315395761cd
-SHA256: 77c65cf987ce56c0f32e809954e36cc9be0da11a3dea34b2cbbae06a45e7871a
+MD5sum: 1771921dd9d14b8f770411cc38aaa5f9
+SHA1: c33c8d0ef7d417a10ac78a2714c1b0fb92d020b0
+SHA256: 777de8534e32512407520f96e62d9abb82b5cde64bd39277aaa501d386da4628
 Section: Tweaks
 Description: disables swipe to dismiss on the predictive keyboard bar.
 Author: CreatureSurvive <dbuehre@me.com>
@@ -84,19 +84,19 @@ Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.predictions
 Name: PredictionStickAround
 
 Package: com.creaturesurvive.sera
-Version: 0.5.0.0
+Version: 0.5.0.1
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
-Installed-Size: 516
+Installed-Size: 536
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.sera_0.5.0.0_iphoneos-arm.deb
-Size: 83496
-MD5sum: 32f7e8b3c5c1be98020368cccaf4b8a4
-SHA1: f7f6040edc795a420cabde13b41242fd4c6df4da
-SHA256: 8584e58bb24829d889701b6d7dc1708cfd690b5a484856d0944cce2a77a625e9
+Filename: ./debs/com.creaturesurvive.sera_0.5.0.1_iphoneos-arm.deb
+Size: 84522
+MD5sum: 3ff21e4603ba35b520817939f7fbc138
+SHA1: 1c78ad6611dadeb1fe4f86513150280cd9d2bb41
+SHA256: 82fc655e2ec85a774c61f52a28ee29c15c7bd269560a1bd1b51ad46709482915
 Section: Tweaks
 Description: A complete LockScreen customization tool (beta)
 Author: CreatureSurvive <dbuehre@me.com>
-Depiction: https://creaturesurvive.com/depictions/com.creaturesurvive.sera/index.html
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturesurvive.sera/index.html
 Name: sera
 
