@@ -11,16 +11,23 @@
     <script type="text/javascript" src="../resources/js/thankssaurik.js"></script>
 </head>
 
+<script type="text/javascript">
+    if (navigator.userAgent.search(/Cydia/) != -1)
+        document.write('<style type="text/css"> body { background: green !important; } .header { display: none !important; } </style>');
+</script>
+
 <body class="pinstripe">
     <panel>
 
         <label>info</label>
 
-        <!-- <fieldset>
-      <div>
-        <p id="version"></p>
-      </div>
-    </fieldset> -->
+        <fieldset class="iosver">
+            <div data-min-ios="9.0" data-max-ios="9.3.3" class="prerequisite">
+                <p>Supports iOS
+                    < 9.0 </p>
+            </div>
+        </fieldset>
+
         <fieldset>
             <div>
                 <p>Sera is a complete LockScreen customization tweak that allows you to redesign your entire LockScreen. Sera is currently in beta and the feature set is not complete, you may encounter bugs. If you find any bugs please contact me via support
