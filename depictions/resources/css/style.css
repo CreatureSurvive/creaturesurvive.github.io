@@ -583,6 +583,19 @@ fieldset>a>div>div>label.price {
   padding: 0.2em 0.4em;
   margin: -0.2em -0.4em
 }
+fieldset>a>div>div>label.title {
+  display: inline-block;
+  float: right;
+  background-color: #2463de;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  -ms-border-radius: 9px;
+  -o-border-radius: 9px;
+  border-radius: 9px;
+  color: #fff !important;
+  padding: 0.2em 0.4em;
+  margin: -0.2em -0.4em
+}
 fieldset>a>div>div>label.verbose {
   display: inline-block;
   float: right;
