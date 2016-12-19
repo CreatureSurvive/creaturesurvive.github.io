@@ -6,9 +6,9 @@ Installed-Size: 384
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.0.8_iphoneos-arm.deb
 Size: 47064
-MD5sum: a8b4994d0276ee621de8042e148fab00
-SHA1: 473f2a2f692414460c87e93abe97d4ffa81237e7
-SHA256: bd4a7cc369547fa794acfb43fd2e9a17d2e0eec746fcb7766f4facdfb0c95fa7
+MD5sum: 18066873fc91cbe619225efe2f2046b4
+SHA1: 7a0722802c6383d7eb09dcd64e3d7dd5e566bd01
+SHA256: f8983489f556c557e503bcd3ea5f5af7e6179560c590928ebeb95f43be563a23
 Section: Tweaks
 Description: This tweak disables the annoying delete word function and enables rapid character deletion instantly.
 Author: CreatureSurvive <dbuehre@me.com>
@@ -23,9 +23,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.flatfields_0.0.5_iphoneos-arm.deb
 Size: 3812
-MD5sum: c6c4761c0888ad6d9996ae505c2f7571
-SHA1: 7b5265857fa24fb34a80c99077bfb88674b0b835
-SHA256: c716369e3ace0a2d8e8cf807871c882179258fbdcd9e9902e0d58d48b11f6f1d
+MD5sum: c3c41f754e11b37f705a9fcfb650d24a
+SHA1: 213e23f2a06987a73b63a5b701ad8f8c72774bce
+SHA256: 9a783c053d17eb59cfe542b981b53de592b5ec70e8df0383556ea44f7c6b4810
 Section: Tweaks
 Description: Removes background bubbles from textfields system wide
 Author: CreatureSurvive <dbuehre@me.com>
@@ -40,9 +40,9 @@ Installed-Size: 384
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.intelligentpower_0.0.2_iphoneos-arm.deb
 Size: 44346
-MD5sum: 20d2b1f50da65ca6332e194deeb59f1f
-SHA1: 1b46cd2200eb2af903d64b51bc2eb3190d09dc27
-SHA256: 3855f0fb57338576244a23fa1046e4e2e6117f4d33dd06b56c80bf2319c478c2
+MD5sum: 7c5b5e80b636a16376ce008db1e3bf30
+SHA1: 8cebb5c4182bd078cb4955d811faac78e2dbff77
+SHA256: 6f9129433b3f6468e4ba6b71ee3db26b4b78d64887b9c3057f6b4bcbd3068912
 Section: Tweaks
 Description: This is a beta package
 Author: CreatureSurvive <dbuehre@me.com>
@@ -57,9 +57,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.2_iphoneos-arm.deb
 Size: 5132
-MD5sum: 123b71f715b687dcc5f66f64b4b6a685
-SHA1: 5f0a9c016a7ebe860775dcd9e12567c076a896fb
-SHA256: fc4b1e84097a904d00fd4b7aadff5e12bf8955501cd7c464f9da3936cc239549
+MD5sum: 303e8ca54e6aac71fdf9b2121a01989d
+SHA1: 8dd5499bc9d34b18d2d299b13201cb3f261adfec
+SHA256: bd6049d0568f1b6c2383ebf28751530bf90b8848b35b600557d97a58048ed26c
 Section: Tweaks
 Description: removes airdrop section on share sheets(beta)
 Author: CreatureSurvive <dbuehre@me.com>
@@ -74,9 +74,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.2_iphoneos-arm.deb
 Size: 3106
-MD5sum: e1a9a20cdc7d5d11ad4a284c10764899
-SHA1: 462d2dabb1817b88f8978af254ffba338f4b854c
-SHA256: 605a1a4cc8ddf70898462c8b0ca93109351146ca0803ba239311ed490a2a8f10
+MD5sum: 5cc46ae72229f15ce0a1cdad32690fb2
+SHA1: 7c8123ad581b7f827c5f246f885bb1cdc34317e8
+SHA256: fe199761466f2f033ab6bf44377811f97158ea7ffce7645d43b706a3d388bb29
 Section: Tweaks
 Description: disables swipe to dismiss on the predictive keyboard bar.
 Author: CreatureSurvive <dbuehre@me.com>
@@ -84,16 +84,16 @@ Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.predictions
 Name: PredictionStickAround
 
 Package: com.creaturesurvive.sera
-Version: 0.6
+Version: 0.6.1
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
-Installed-Size: 968
+Installed-Size: 976
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.sera_0.6_iphoneos-arm.deb
-Size: 238632
-MD5sum: 3288037ece79b4ac7d0d2253b952febc
-SHA1: f638ddc81480cc8a15eee7fa75f8ab014785661b
-SHA256: 328687c0147b9a310996e04b7faaa00fa5aef888fff4cf0b3737f6e2fb3def91
+Filename: ./debs/com.creaturesurvive.sera_0.6.1_iphoneos-arm.deb
+Size: 238558
+MD5sum: ca96ca54e12891cda7aa038ae4d67bab
+SHA1: 0589884184cc22a09d57143ffb2f5cafe45d113f
+SHA256: 41d453521315f8b47843d42e741dc2d08dcd63833bc03c39eb7c55b4220bfecc
 Section: Tweaks
 Description: A complete LockScreen customization tool (beta)
 Author: CreatureSurvive <dbuehre@me.com>
