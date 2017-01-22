@@ -6,9 +6,9 @@ Installed-Size: 384
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.0.8_iphoneos-arm.deb
 Size: 48096
-MD5sum: 55248860fa64ce0eba098b9c7377bca3
-SHA1: 969a3d964c525149a836b7d4b702d139f0ad2c9b
-SHA256: 8fc6ef912b14d62b34debde42accade89c704fc4c7b8f13181e2b98cdb23bb0e
+MD5sum: c4011639010793eb39ce3e82943301e1
+SHA1: 977d741e59efa163510548c9ba5f1dce07d2c463
+SHA256: 23a665a0ac0c475264d5ab52ad25583cd044e39104ec1a2aed30c672494cbfe2
 Section: Tweaks
 Description: This tweak disables the annoying delete word function and enables rapid character deletion instantly.
 Author: CreatureSurvive <dbuehre@me.com>
@@ -23,9 +23,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.flatfields_0.0.5_iphoneos-arm.deb
 Size: 3800
-MD5sum: 80520228be28acabf9181310c1755de8
-SHA1: c40a31ed17984436d9493bd1ecb5d2543e49fde6
-SHA256: 9bf767cd27b80d39d16154f93198be326803e84f883af31cc7e5c375fb167bfe
+MD5sum: 9565dda5965f26d33ae9d59df2fa56bf
+SHA1: 4eb7b97f9423d725be2bc5113668c2e764935135
+SHA256: 3d44ed9dacb6385d93f215bfc3acebbda9e2792c82c5b432267f72b5bda412ec
 Section: Tweaks
 Description: Removes background bubbles from textfields system wide
 Author: CreatureSurvive <dbuehre@me.com>
@@ -40,9 +40,9 @@ Installed-Size: 384
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.intelligentpower_0.0.2_iphoneos-arm.deb
 Size: 44354
-MD5sum: 7d607e217ee538e82d1e5793cea0743d
-SHA1: 87bf6a4d3dd610e8c16affcc38053e6b50cc9410
-SHA256: 727885d50df0038ddf8e438db7b183911b8e3f5de0c49f5480603ea53ccfbce6
+MD5sum: a7103f41dc27da57f6f26484983c7b5f
+SHA1: c40c839abbb633688b50cdc8069bb0355416b310
+SHA256: f6e148404de91cb0c53c6be0225b4e7dfb964d5b98a18f48f561988efac9c6b0
 Section: Tweaks
 Description: This is a beta package
 Author: CreatureSurvive <dbuehre@me.com>
@@ -56,10 +56,10 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 512
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.motuumls_0.0.2_iphoneos-arm.deb
-Size: 67622
-MD5sum: bc3a79d98e245e21cdc6943f75ee1bc6
-SHA1: feaa4a04f69a3f42f884bd51d861d97c97f957b6
-SHA256: 52c81b7828fae9bce0f15b1add65f0e10c8ac9bb3de5c80ebd0e21e6a4bf83f6
+Size: 67628
+MD5sum: f9d1774a161eb5889e50fa2ec2cb7f19
+SHA1: d5a1574c731b7441ceaaa2e8a7f3b74b33a62b41
+SHA256: 15de7818d310f32b96e36ef2e1c8a23817a0c4b312fdcbd129040ea80b58c12d
 Section: Tweaks
 Description: Customize your lockscreen your way!
 Author: CreatureSurvive <dbuehre@me.com>
@@ -74,9 +74,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.2_iphoneos-arm.deb
 Size: 5124
-MD5sum: 4ac224302998a08b5c57dbd092cfb6de
-SHA1: ae0c3fd8edc405fbd90f2c8daac7c73aabc74b6e
-SHA256: 6a19cc958eab63decb47874a3fec8df210781a1a0eb2ca16d16a575e63a36ccc
+MD5sum: 882df1c8c07ae95258f2210cc573cc55
+SHA1: 757a069151f96fbde5a589f603eaa26eadee44ac
+SHA256: 13d2c8d56b57ec8c3336c73b7286ea49d5fe309bc4aa4e23804260cb4c680b27
 Section: Tweaks
 Description: removes airdrop section on share sheets(beta)
 Author: CreatureSurvive <dbuehre@me.com>
@@ -91,9 +91,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.2_iphoneos-arm.deb
 Size: 3096
-MD5sum: 9f358c2e13100e6c5c5ded1eee36dd87
-SHA1: 42f85b5643536bd080d4e87a7818f3fc09967285
-SHA256: 193fd30cc47ae7f8505ffa1ac2a67d4f693be96ceda43eb6b98aa709571e72a5
+MD5sum: 5bc52a532bc48c757f928b1ec3ea6988
+SHA1: 6c7eccf4f79d72413b5520011730b0c4e7849944
+SHA256: e6f61fbc09b1e8ee19626348344179511b07eea2b53f4a322fdeceebc3bdc499
 Section: Tweaks
 Description: disables swipe to dismiss on the predictive keyboard bar.
 Author: CreatureSurvive <dbuehre@me.com>
@@ -108,9 +108,9 @@ Installed-Size: 1500
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.creaturesurvive.sera_0.6.7-120+debug_iphoneos-arm.deb
 Size: 358270
-MD5sum: b47643a299dab0eb391d033839a6990b
-SHA1: 431f9fb4b12078dca4857dc7fe34695133760f2d
-SHA256: b973f6c81515cfc81234ad66a08eb5d87510ef9c5cd073e80d3fda4d4ee89835
+MD5sum: 715e77bfb0dae7a86415705d729b63a2
+SHA1: 2644deb769e0df8e635c4de10ed26630d567acdb
+SHA256: b968df183399471ec30450191235aca27aa72c4e98f5743e1381721c91adc909
 Section: Tweaks
 Description: A complete LockScreen customization tool (beta)
 Author: CreatureSurvive <dbuehre@me.com>
