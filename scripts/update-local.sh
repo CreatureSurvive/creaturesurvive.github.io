@@ -3,7 +3,7 @@
 # @Email:  dbuehre@me.com
 # @Filename: update-local.sh
 # @Last modified by:   creaturesurvive
-# @Last modified time: 02-10-2017 1:13:29
+# @Last modified time: 02-10-2017 3:21:46
 # @Copyright: Copyright © 2014-2017 CreatureSurvive
 
 
@@ -23,6 +23,8 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/predictionstickaround/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/sera/.theos/_ debs
 dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libCSWeather/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/foresight/.theos/_ debs
+
 
 #packages
 dpkg-scanpackages -m ./debs > Packages

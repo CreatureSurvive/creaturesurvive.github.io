@@ -49,6 +49,24 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
 Name: FastDel
 
+Package: com.creaturecoding.foresight
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate, com.creaturecoding.libcsweather
+Filename: ./debs/com.creaturecoding.foresight_1.0.0_iphoneos-arm.deb
+Size: 8646
+MD5sum: 466e33f86a903f211e5436b22d919f42
+SHA1: 57743f78e95b84f0751a34ceea3662a37dac4106
+SHA256: 29b70f7f81fd11c789e01b35e8e9d78ea89359a7233f391945283668c5250784
+Section: System
+Description: forecast on your lockscreen.
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.foresight/index.html
+Name: foresight
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
@@ -56,10 +74,10 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 248
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcsweather_0.1.3b_iphoneos-arm.deb
-Size: 16502
-MD5sum: 41e44015a7b392012baad03cff7e07d6
-SHA1: 1f9839219c525c6bce4197b10e2ad789a949b3b3
-SHA256: 3368e095d5beba631c51346b1a2c46d1f613073144a82a3b30d34fd9f5b13b7a
+Size: 16704
+MD5sum: cd73f9dadc24bf9dab993db4bb407f80
+SHA1: 2f0187de4a50054a514c59acad57d16f15fabbfe
+SHA256: a98d191e317d41f47a98252f672ed8dac7315d1a966dbf4b07fef1a258df64f6
 Section: System
 Description: a simple library for fetching weather information
 Tag: role::developer
