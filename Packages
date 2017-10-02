@@ -57,9 +57,9 @@ Installed-Size: 204
 Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Filename: ./debs/com.creaturecoding.foresight_1.0.0_iphoneos-arm.deb
 Size: 8646
-MD5sum: 466e33f86a903f211e5436b22d919f42
-SHA1: 57743f78e95b84f0751a34ceea3662a37dac4106
-SHA256: 29b70f7f81fd11c789e01b35e8e9d78ea89359a7233f391945283668c5250784
+MD5sum: 39dc179f328af3b87284bcaea2178924
+SHA1: eda0e3c1f96f99ef4a6a2145ff46372658c99866
+SHA256: a6f3489fa799a5cd1f708afdfd33785bb58e1f5437168363bb290f7bbb4e84c6
 Section: System
 Description: forecast on your lockscreen.
 Tag: role::developer
@@ -75,9 +75,9 @@ Installed-Size: 248
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcsweather_0.1.3b_iphoneos-arm.deb
 Size: 16704
-MD5sum: cd73f9dadc24bf9dab993db4bb407f80
-SHA1: 2f0187de4a50054a514c59acad57d16f15fabbfe
-SHA256: a98d191e317d41f47a98252f672ed8dac7315d1a966dbf4b07fef1a258df64f6
+MD5sum: e3c617d2b41d70d571da573d6467a8ec
+SHA1: da5d358a0fb1ebb4a5538ea9936290cf4170f2da
+SHA256: 90e355dbdd0358681ac765857d2960fe3b4fb527fe1c563461b895a8bbb3fdee
 Section: System
 Description: a simple library for fetching weather information
 Tag: role::developer
