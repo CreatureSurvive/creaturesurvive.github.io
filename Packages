@@ -32,6 +32,24 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
 Name: FastDel
 
+Package: com.creaturecoding.libcsweather
+Version: 0.1.3b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcsweather_0.1.3b_iphoneos-arm.deb
+Size: 16502
+MD5sum: d2678df4d99116aa674703195455fd24
+SHA1: 0b3cb549ad6b34e927a299ba6679ecacd31fe159
+SHA256: 28191ff75128d649d2741e0e3088cb83be1f8f6c2a167a48a29846d704298011
+Section: System
+Description: a simple library for fetching weather information
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
+Name: libCSWeather
+
 Package: com.creaturesurvive.flatfields
 Version: 0.0.5
 Architecture: iphoneos-arm
