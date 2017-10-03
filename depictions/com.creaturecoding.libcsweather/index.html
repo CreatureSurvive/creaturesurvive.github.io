@@ -13,21 +13,22 @@
 <script type="text/javascript">
   if (navigator.userAgent.search(/Cydia/) != -1)
     document.write('<style type="text/css"> body { background: none !important; } .header { display: none !important; } </style>');
+
 </script>
 
 <body class="pinstripe">
   <panel>
     <fieldset class="iosver">
       <div data-min-ios="9.0" data-max-ios="9.3.3" class="prerequisite">
-        <p>Supports iOS
-          < 10.0</p>
+        <p>Supports iOS &gt; 10.0</p>
       </div>
     </fieldset>
     <label>Info</label>
     <fieldset>
       <div>
         <p>A simple litte library for fetching the current weather information such as:</p>
-        <li> current temperature (celcius/fahrenheit)</li>
+        <li> current temperature (celsius/fahrenheit)</li>
+        <li> current temperature (celsius/fahrenheit) based on weather preference setting</li>
         <li> daily high</li>
         <li> daily low</li>
         <li> current weather condition icon</li>

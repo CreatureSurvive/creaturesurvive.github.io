@@ -56,11 +56,29 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 204
 Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Filename: ./debs/com.creaturecoding.foresight_1.0.0_iphoneos-arm.deb
-Size: 8646
-MD5sum: 39dc179f328af3b87284bcaea2178924
-SHA1: eda0e3c1f96f99ef4a6a2145ff46372658c99866
-SHA256: a6f3489fa799a5cd1f708afdfd33785bb58e1f5437168363bb290f7bbb4e84c6
-Section: System
+Size: 8928
+MD5sum: 857c8cb0a3111c9326538f74e889c0db
+SHA1: e07391371e85604fd0db320fc1a4c47aecc2a42f
+SHA256: 51323bd41813a8f4484b0807a2a2195f452af7a9fb5db760d05be4f660acbdb2
+Section: Tweaks
+Description: forecast on your lockscreen.
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.foresight/index.html
+Name: foresight
+
+Package: com.creaturecoding.foresight
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate, com.creaturecoding.libcsweather
+Filename: ./debs/com.creaturecoding.foresight_1.0.1_iphoneos-arm.deb
+Size: 8648
+MD5sum: 666afee87221ce2a6802f7e0a6020305
+SHA1: 7c0ca53132419aa7241f4b7ee01e69980d06eaeb
+SHA256: 6ac43964683ef06c7ac38de2e73f20cd80b30f89536d5e086ac66a5fccf95845
+Section: Tweaks
 Description: forecast on your lockscreen.
 Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
@@ -78,6 +96,24 @@ Size: 16704
 MD5sum: e3c617d2b41d70d571da573d6467a8ec
 SHA1: da5d358a0fb1ebb4a5538ea9936290cf4170f2da
 SHA256: 90e355dbdd0358681ac765857d2960fe3b4fb527fe1c563461b895a8bbb3fdee
+Section: System
+Description: a simple library for fetching weather information
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
+Name: libCSWeather
+
+Package: com.creaturecoding.libcsweather
+Version: 0.1.5b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcsweather_0.1.5b_iphoneos-arm.deb
+Size: 19982
+MD5sum: 45f0812a81b13ee0d8411967e53d90f1
+SHA1: 6655ec40cbfbbc5296c12573d523e4e5c992db8c
+SHA256: c339befe51a9a5d4610ef35947849601427984c7a3d58f435a2df1d4028cdf2e
 Section: System
 Description: a simple library for fetching weather information
 Tag: role::developer
