@@ -118,6 +118,21 @@ Name: switcherRadii
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
 
+Package: com.creaturecoding.switcherradii
+Version: 1.0.1
+Section: Tweaks
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.creaturecoding.switcherradii_1.0.1_iphoneos-arm.deb
+Size: 6932
+Installed-Size: 204
+MD5sum: 47f0f16261d91a014d4f333525793795
+Description: rounded cards in the app switcher.
+Name: switcherRadii
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
+
 Package: com.creaturesurvive.flatfields
 Version: 0.0.5
 Section: Tweaks
