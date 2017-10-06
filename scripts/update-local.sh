@@ -23,7 +23,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/predictionstickaround/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/sera/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libCSWeather/.theos/_ debs
-# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/foresight/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/foresight/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/switcherRadii/.theos/_ debs
 
 
