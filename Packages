@@ -172,6 +172,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
 Name: libCSWeather
 
+Package: com.creaturecoding.selectivecontrols
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 344
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.creaturecoding.selectivecontrols_0.0.3_iphoneos-arm.deb
+Size: 6810
+MD5sum: c71822af34f0d157a49d7e876fba53b8
+SHA1: 4e9a57e555a91d039eaadf998e7066847c45c023
+SHA256: 4f095bcb9abececdf1059b143af665d5aee6871cb8199b60a5236fe3ee0ca7f2
+Section: Tweaks
+Description: disable now playing controls for selected apps.
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.selectivecontrols/index.html
+Name: selectiveControls
+
 Package: com.creaturecoding.switcherradii
 Version: 1.0.0
 Architecture: iphoneos-arm
