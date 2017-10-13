@@ -26,7 +26,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/foresight/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/switcherRadii/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/alwaysPlaying/.theos/_ debs
-dpkg-deb -bZlzma ~/Projects/Theos/tweaks/selectivecontrols/.theos/_ debs
+# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/selectivecontrols/.theos/_ debs
 
 
 #packages

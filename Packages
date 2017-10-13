@@ -278,6 +278,22 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.intelligentpower/index.html
 Name: IntelligentPower
 
+Package: com.creaturesurvive.libcscolorpicker
+Version: 0.5.7
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 388
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.5.7_iphoneos-arm.deb
+Size: 51782
+MD5sum: 3ef838139385fd1bd1789ff01f091216
+SHA1: 78eb5b87d1c6afe2ae699fd6f72e67aee6d79363
+SHA256: 63643b9f32e8798a28c89f00301f4c6122229f22afb75bd001e858fd1a8bce9a
+Section: System
+Description: An awesome colorpicker library of some sort!!
+Tag: role::developer
+Author: CreatureSurvive
+Name: libCSColorPicker
+
 Package: com.creaturesurvive.motuumls
 Version: 0.0.8
 Architecture: iphoneos-arm
