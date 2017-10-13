@@ -190,6 +190,23 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
 Name: libCSWeather
 
+Package: com.creaturecoding.pulltoclear
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 424
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
+Filename: ./debs/com.creaturecoding.pulltoclear_0.2.1_iphoneos-arm.deb
+Size: 31898
+MD5sum: 3b2795989e90b943e9f3e6314f0cc763
+SHA1: 210185c1811b97047af6b4cd047dc5ced29806f3
+SHA256: 0d89b18adfaae6ac440e3c0d570de94c183bb58e9d7c49bb375e959b19eb4788
+Section: Tweaks
+Description: PullToClear notifications on LS & NC
+Author: CreatureSurvive
+Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.pulltoclear/index.htmls
+Name: PullToClear
+
 Package: com.creaturecoding.selectivecontrols
 Version: 0.0.3
 Architecture: iphoneos-arm
