@@ -313,6 +313,23 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.flatfields/index.html
 Name: FlatFields
 
+Package: com.creaturesurvive.flatfields
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturesurvive.flatfields_0.0.7_iphoneos-arm.deb
+Size: 3820
+MD5sum: 723b6e59e19a895402f90bf0e0fefea3
+SHA1: e642e903bef978919b0cca6644eb1a07c4dc8511
+SHA256: 136039e0f82446cba84eec407b3ff4cbea99d19bf56464ff8aa6f9cd2bf54a83
+Section: Tweaks
+Description: Removes background bubbles from textfields system wide
+Author: CreatureSurvive <dbuehre@me.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.flatfields/index.html
+Name: FlatFields
+
 Package: com.creaturesurvive.intelligentpower
 Version: 0.0.5
 Architecture: iphoneos-arm
@@ -523,6 +540,23 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.com/depictions/com.creaturesurvive.nodropsheet/index.html
 Name: noDropSheet
 
+Package: com.creaturesurvive.nodropsheet
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.3_iphoneos-arm.deb
+Size: 5144
+MD5sum: 7ca40707973abd7e38c800458b2eb63c
+SHA1: 1395569b5228ab66b222e698afb26d383ffb73ba
+SHA256: 7c11e48fef4482d6bab39af364a723d2841b0338493a148a533dfda756270ffb
+Section: Tweaks
+Description: removes airdrop section on share sheets(beta)
+Author: CreatureSurvive <dbuehre@me.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturesurvive.nodropsheet/index.html
+Name: noDropSheet
+
 Package: com.creaturesurvive.predictionstickaround
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -538,6 +572,23 @@ Section: Tweaks
 Description: disables swipe to dismiss on the predictive keyboard bar.
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.predictionstickaround/index.html
+Name: PredictionStickAround
+
+Package: com.creaturesurvive.predictionstickaround
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.3_iphoneos-arm.deb
+Size: 3106
+MD5sum: 973152df7451e15077a313ede7744469
+SHA1: 4d25255264a7c4e1fbb903b52f7750ec0230a858
+SHA256: 0e443c663314ccd8483a1d03e771732a0b44ab65a8a1a300c65084975f1417c9
+Section: Tweaks
+Description: disables swipe to dismiss on the predictive keyboard bar.
+Author: CreatureSurvive <dbuehre@me.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.predictionstickaround/index.html
 Name: PredictionStickAround
 
 Package: com.creaturesurvive.sera
