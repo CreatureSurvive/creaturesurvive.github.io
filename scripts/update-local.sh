@@ -27,6 +27,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/switcherRadii/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/alwaysPlaying/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/selectivecontrols/.theos/_ debs
+# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/cscolorpicker/.theos/_ debs
 
 
 #packages
