@@ -29,7 +29,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/selectivecontrols/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/cscolorpicker/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libcspreferences/.theos/_ debs
-dpkg-deb -bZlzma ~/Projects/Theos/tweaks/pulltoclear/.theos/_ debs
+# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/pulltoclear/.theos/_ debs
 
 
 #packages
