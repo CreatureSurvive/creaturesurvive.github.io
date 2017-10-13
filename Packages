@@ -207,6 +207,23 @@ Author: CreatureSurvive
 Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.pulltoclear/index.htmls
 Name: PullToClear
 
+Package: com.creaturecoding.pulltoclear
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 424
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
+Filename: ./debs/com.creaturecoding.pulltoclear_0.2.2_iphoneos-arm.deb
+Size: 31942
+MD5sum: c7d405826a0f951e5969b3813090d7bf
+SHA1: 4430b5b21d32fedf8bd8ec8df8c39172a58ae2d3
+SHA256: 59da0b44b0168aa03ff0fac5841a20728b6a4137df43c19b531c6bbf2539a038
+Section: Tweaks
+Description: PullToClear notifications on LS & NC
+Author: CreatureSurvive
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.pulltoclear/index.html
+Name: PullToClear
+
 Package: com.creaturecoding.selectivecontrols
 Version: 0.0.3
 Architecture: iphoneos-arm
