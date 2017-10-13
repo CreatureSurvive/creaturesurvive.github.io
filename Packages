@@ -143,11 +143,11 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1052
 Depends: preferenceloader, mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_0.7.3_iphoneos-arm.deb
-Size: 199770
-MD5sum: b19fc3f6c2c3a7e5b53eca2938c40c41
-SHA1: cc3d8277a6e9db139edfb78ff89f48034ed327f1
-SHA256: a69814376a8687eeeb697e7519065a70605059014704d1551364c2c2b12afee6
-Section: Libraries
+Size: 199730
+MD5sum: e67e7d460d8d8c5d26f8c74a64e86d4e
+SHA1: 875eedb419c98b5150d2c9fc6706269a4fa539c3
+SHA256: 620b425e1d8cf576581bc28b3f94a8dce4683d04b281e4a82d595e7a94b17e0f
+Section: System
 Description: An awesome Preference Library!
 Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
