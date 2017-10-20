@@ -22,13 +22,13 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/nodropsheet/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/predictionstickaround/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/sera/.theos/_ debs
-# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libCSWeather/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libCSWeather/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/foresight/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/switcherRadii/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/alwaysPlaying/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/selectivecontrols/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/cscolorpicker/.theos/_ debs
-# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libcspreferences/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libcspreferences/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/pulltoclear/.theos/_ debs
 
 

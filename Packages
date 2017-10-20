@@ -172,6 +172,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
 Name: libCSPreferences
 
+Package: com.creaturecoding.libcspreferences
+Version: 0.7.8
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1052
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_0.7.8_iphoneos-arm.deb
+Size: 199680
+MD5sum: 54c00a379478ef1c52c5d48df4cac535
+SHA1: f8b6cb6ab5f224d8d681910fd3cd550675f104a2
+SHA256: 78c14086615507870f9729439c525200086aba58d3cb9355c696a21f6a3e9127
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
+Name: libCSPreferences
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
@@ -219,6 +237,24 @@ Size: 24332
 MD5sum: 3bce63c54f537efd8436668a2b5389f0
 SHA1: a5bf640530d6931d8333a8fbba23ee2b9d183c37
 SHA256: adb11e671447206eb9a0250339a565b8ca6ab8f91af59a97ab10d07b4797fb82
+Section: System
+Description: a simple library for fetching weather information
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
+Name: libCSWeather
+
+Package: com.creaturecoding.libcsweather
+Version: 0.4.7b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcsweather_0.4.7b_iphoneos-arm.deb
+Size: 27392
+MD5sum: 009ca9c6af89afb8d301b4319807f136
+SHA1: 88b858d88d43e245401899dc55df9acdadf49c34
+SHA256: 94d576d912154207a3a748c39e629a0391de368b06dea520cc6b86396bc66830
 Section: System
 Description: a simple library for fetching weather information
 Tag: role::developer
