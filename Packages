@@ -315,6 +315,23 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: Organize your notifications on the LS and NC. this package was originaly developed by Thomas Finch.
 Name: Priority Hub 2 ALPHA
 
+Package: com.creaturecoding.priorityhub
+Version: 2.0a-2+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 460
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.creaturecoding.priorityhub_2.0a-2+debug_iphoneos-arm.deb
+Size: 74170
+MD5sum: 1146e055cfd030b824a53848008adc91
+SHA1: 5321aca47f7bee2163c555dd8660f1cc14681144
+SHA256: c1a1043ae544e12d6e41b2d56969c18d76cb542d17d428b57f6ce22d8bf7b850
+Section: Tweaks
+Homepage: http://thomasfinch.me
+Description: Organize your notifications on the LS and NC. this package was originaly developed by Thomas Finch.
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: Priority Hub 2 ALPHA
+
 Package: com.creaturecoding.pulltoclear
 Version: 0.2.1
 Architecture: iphoneos-arm
