@@ -715,3 +715,20 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturesurvive.sera/index.html
 Name: sera
 
+Package: me.thomasfinch.priorityhub
+Version: 2.0a-1+debug
+Architecture: iphoneos-arm
+Maintainer: Thomas Finch <tomf64@gmail.com>
+Installed-Size: 460
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/me.thomasfinch.priorityhub_2.0a-1+debug_iphoneos-arm.deb
+Size: 74154
+MD5sum: 127dbd529621dce6d11ea5fd75f7b0ac
+SHA1: 6cf44c5d7d763a53f8cb84e55e3cab8e3576cd2b
+SHA256: 3c8bac70441c9e7c8b3158d440a6026df99f2e1b54d28d078dd1d4b984166349
+Section: Tweaks
+Homepage: http://thomasfinch.me
+Description: Organize your notifications!
+Author: Thomas Finch <tomf64@gmail.com>
+Name: Priority Hub 2 ALPHA
+
