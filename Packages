@@ -1,241 +1,283 @@
 Package: com.creaturecoding.alwaysplaying
 Version: 0.0.7
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 200
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.alwaysplaying_0.0.7_iphoneos-arm.deb
 Size: 7926
-Installed-Size: 200
 MD5sum: 0de842b9f111b3a6ef3ac43fcb05a4ef
+SHA1: e438164f6db7222a71da53183f57078f86f8a3db
+SHA256: 39a170fda00582e641738363bc9a1910c11fdc3022db48a89068b29b6a0ccfc2
+Section: Tweaks
 Description: force now playing controls on LS via activator
-Name: alwaysPlaying
 Author: CreatureSurvive <dbuehre@me.com>
+Name: alwaysPlaying
 
 Package: com.creaturecoding.alwaysplaying
 Version: 0.1.0
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 200
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.alwaysplaying_0.1.0_iphoneos-arm.deb
 Size: 9056
-Installed-Size: 200
 MD5sum: 9655476b396b86300bff3ce197975b30
+SHA1: f1f7fbd605e42e4ee4a888639876067c6f630c23
+SHA256: 5a8975fb6069a9cdd4967b6a86b0e03a09728cdca9911adb66e9ef59afa2ae7f
+Section: Tweaks
 Description: force now playing controls on LS via activator
-Name: alwaysPlaying
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.alwaysplaying/index.html
+Name: alwaysPlaying
 
 Package: com.creaturecoding.fastdel
 Version: 0.1
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 384
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.1_iphoneos-arm.deb
 Size: 47668
-Installed-Size: 384
 MD5sum: 89cc0278250098a6afa5142ebca1f21a
+SHA1: 1eaa5926bfb1ecda94dfb451475c81268ce9c987
+SHA256: 6d514e63198ef24ccd4a9153a1e5e9987b50edb857ef52cda8c8b82760ebf0ee
+Section: Tweaks
 Description: disable the annoying delete word function and enables rapid character deletion instantly.
-Name: FastDel
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
+Name: FastDel
 
 Package: com.creaturecoding.fastdel
 Version: 0.2
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 460
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.2_iphoneos-arm.deb
 Size: 50856
-Installed-Size: 460
 MD5sum: 70fec8a160d957d79da21c4b9ae65a02
+SHA1: fb61e62d9028b3d74c848ca771bd719e40a3ddc8
+SHA256: 0f44977c46085f31f56a44f51c35c620304d9962865b953c7e21d54939ac483e
+Section: Tweaks
 Description: disable the annoying delete word function and enables rapid character deletion instantly.
-Name: FastDel
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
+Name: FastDel
 
 Package: com.creaturecoding.fastdel
 Version: 0.3
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 440
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.3_iphoneos-arm.deb
 Size: 42790
-Installed-Size: 440
 MD5sum: c13b9cdaed963bbd3d798c50b27b1acd
+SHA1: 4d7c9a1b128c6d63d31c8d399677a260b9efdc2d
+SHA256: b8c9b961a806857417c05b95814e9ce60e1390703fae5ea8486e2b90396d08b8
+Section: Tweaks
 Description: disable the annoying delete word function and enables rapid character deletion instantly.
-Name: FastDel
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
+Name: FastDel
 
 Package: com.creaturecoding.findOnPage
 Version: 0.0.1
-Section: Tweaks
-Maintainer: CreatureSurvive
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 200
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.findOnPage_0.0.1_iphoneos-arm.deb
 Size: 4904
-Installed-Size: 200
 MD5sum: 503aea23dc804c7093b442414eb30c47
+SHA1: bc232d76d2854645e9be85f203f2b2b98d36ab55
+SHA256: c317c27e9a0a2c02d1ef50dd3e5d9d5445c10678c4623fc77a3f277e372f01a2
+Section: Tweaks
 Description: Quickly access safari's "Find On Page" feature!
-Name: findOnPage
 Author: CreatureSurvive
 Depiction: http://creaturecoding.com/depictions/cydia/?p=findonpage
+Name: findOnPage
 
 Package: com.creaturecoding.foresight
 Version: 1.0.0
-Section: Tweaks
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Filename: ./debs/com.creaturecoding.foresight_1.0.0_iphoneos-arm.deb
 Size: 8928
-Installed-Size: 204
 MD5sum: 857c8cb0a3111c9326538f74e889c0db
+SHA1: e07391371e85604fd0db320fc1a4c47aecc2a42f
+SHA256: 51323bd41813a8f4484b0807a2a2195f452af7a9fb5db760d05be4f660acbdb2
+Section: Tweaks
 Description: forecast on your lockscreen.
-Name: foresight
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.foresight/index.html
+Name: foresight
 
 Package: com.creaturecoding.foresight
 Version: 1.0.1
-Section: Tweaks
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Filename: ./debs/com.creaturecoding.foresight_1.0.1_iphoneos-arm.deb
 Size: 8648
-Installed-Size: 204
 MD5sum: 666afee87221ce2a6802f7e0a6020305
+SHA1: 7c0ca53132419aa7241f4b7ee01e69980d06eaeb
+SHA256: 6ac43964683ef06c7ac38de2e73f20cd80b30f89536d5e086ac66a5fccf95845
+Section: Tweaks
 Description: forecast on your lockscreen.
-Name: foresight
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.foresight/index.html
+Name: foresight
 
 Package: com.creaturecoding.foresight
 Version: 1.0.3
-Section: Tweaks
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 200
+Depends: mobilesubstrate, com.creaturecoding.libcsweather
 Filename: ./debs/com.creaturecoding.foresight_1.0.3_iphoneos-arm.deb
 Size: 7610
-Installed-Size: 200
 MD5sum: 77f97dccb71a3f5dda82441a3b29b35f
+SHA1: 4356f194278e655755329373b19a7a69786440e3
+SHA256: a526813214b01690c9773ac1cdeb1e5d41487dc1f99eee1a67c670042369c757
+Section: Tweaks
 Description: forecast on your lockscreen.
-Name: foresight
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.foresight/index.html
+Name: foresight
 
 Package: com.creaturecoding.libcspreferences
 Version: 0.7.3
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: preferenceloader, mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1052
+Depends: preferenceloader, mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_0.7.3_iphoneos-arm.deb
 Size: 199730
-Installed-Size: 1052
 MD5sum: e67e7d460d8d8c5d26f8c74a64e86d4e
+SHA1: 875eedb419c98b5150d2c9fc6706269a4fa539c3
+SHA256: 620b425e1d8cf576581bc28b3f94a8dce4683d04b281e4a82d595e7a94b17e0f
+Section: System
 Description: An awesome Preference Library!
-Name: libCSPreferences
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
+Name: libCSPreferences
 
 Package: com.creaturecoding.libcspreferences
 Version: 0.7.5
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: preferenceloader, mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1052
+Depends: preferenceloader, mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_0.7.5_iphoneos-arm.deb
 Size: 200178
-Installed-Size: 1052
 MD5sum: 43efb7720c6642577f728a2a6f4eca29
+SHA1: c7e58c76770c3785c384a342a9858d8804c521b2
+SHA256: 8fad75a6052187e1ea62e1e9d3c5ec1be3594f9d099d02dbecbea5e28cd8e2ba
+Section: System
 Description: An awesome Preference Library!
-Name: libCSPreferences
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
+Name: libCSPreferences
 
 Package: com.creaturecoding.libcspreferences
 Version: 0.7.8
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: preferenceloader, mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1052
+Depends: preferenceloader, mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_0.7.8_iphoneos-arm.deb
 Size: 199680
-Installed-Size: 1052
 MD5sum: 54c00a379478ef1c52c5d48df4cac535
+SHA1: f8b6cb6ab5f224d8d681910fd3cd550675f104a2
+SHA256: 78c14086615507870f9729439c525200086aba58d3cb9355c696a21f6a3e9127
+Section: System
 Description: An awesome Preference Library!
-Name: libCSPreferences
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
+Name: libCSPreferences
 
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 248
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcsweather_0.1.3b_iphoneos-arm.deb
 Size: 16704
-Installed-Size: 248
 MD5sum: e3c617d2b41d70d571da573d6467a8ec
+SHA1: da5d358a0fb1ebb4a5538ea9936290cf4170f2da
+SHA256: 90e355dbdd0358681ac765857d2960fe3b4fb527fe1c563461b895a8bbb3fdee
+Section: System
 Description: a simple library for fetching weather information
-Name: libCSWeather
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
+Name: libCSWeather
 
 Package: com.creaturecoding.libcsweather
 Version: 0.1.5b
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 248
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcsweather_0.1.5b_iphoneos-arm.deb
 Size: 19982
-Installed-Size: 248
 MD5sum: 45f0812a81b13ee0d8411967e53d90f1
+SHA1: 6655ec40cbfbbc5296c12573d523e4e5c992db8c
+SHA256: c339befe51a9a5d4610ef35947849601427984c7a3d58f435a2df1d4028cdf2e
+Section: System
 Description: a simple library for fetching weather information
-Name: libCSWeather
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
+Name: libCSWeather
 
 Package: com.creaturecoding.libcsweather
 Version: 0.4.5b
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 296
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcsweather_0.4.5b_iphoneos-arm.deb
 Size: 24332
-Installed-Size: 296
 MD5sum: 3bce63c54f537efd8436668a2b5389f0
+SHA1: a5bf640530d6931d8333a8fbba23ee2b9d183c37
+SHA256: adb11e671447206eb9a0250339a565b8ca6ab8f91af59a97ab10d07b4797fb82
+Section: System
 Description: a simple library for fetching weather information
-Name: libCSWeather
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
+Name: libCSWeather
 
 Package: com.creaturecoding.libcsweather
 Version: 0.4.7b
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 296
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcsweather_0.4.7b_iphoneos-arm.deb
 Size: 27392
-Installed-Size: 296
 MD5sum: 009ca9c6af89afb8d301b4319807f136
+SHA1: 88b858d88d43e245401899dc55df9acdadf49c34
+SHA256: 94d576d912154207a3a748c39e629a0391de368b06dea520cc6b86396bc66830
+Section: System
 Description: a simple library for fetching weather information
-Name: libCSWeather
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
+Name: libCSWeather
 
 Package: com.creaturecoding.libcsweather
 Version: 0.4.9b
@@ -275,382 +317,436 @@ Name: Priority Hub 2 ALPHA
 
 Package: com.creaturecoding.pulltoclear
 Version: 0.2.1
-Section: Tweaks
-Maintainer: CreatureSurvive
-Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 424
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
 Filename: ./debs/com.creaturecoding.pulltoclear_0.2.1_iphoneos-arm.deb
 Size: 31898
-Installed-Size: 424
 MD5sum: 3b2795989e90b943e9f3e6314f0cc763
+SHA1: 210185c1811b97047af6b4cd047dc5ced29806f3
+SHA256: 0d89b18adfaae6ac440e3c0d570de94c183bb58e9d7c49bb375e959b19eb4788
+Section: Tweaks
 Description: PullToClear notifications on LS & NC
-Name: PullToClear
 Author: CreatureSurvive
 Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.pulltoclear/index.htmls
+Name: PullToClear
 
 Package: com.creaturecoding.pulltoclear
 Version: 0.2.2
-Section: Tweaks
-Maintainer: CreatureSurvive
-Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 424
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
 Filename: ./debs/com.creaturecoding.pulltoclear_0.2.2_iphoneos-arm.deb
 Size: 31942
-Installed-Size: 424
 MD5sum: c7d405826a0f951e5969b3813090d7bf
+SHA1: 4430b5b21d32fedf8bd8ec8df8c39172a58ae2d3
+SHA256: 59da0b44b0168aa03ff0fac5841a20728b6a4137df43c19b531c6bbf2539a038
+Section: Tweaks
 Description: PullToClear notifications on LS & NC
-Name: PullToClear
 Author: CreatureSurvive
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.pulltoclear/index.html
+Name: PullToClear
 
 Package: com.creaturecoding.pulltoclear
 Version: 0.3.1
-Section: Tweaks
-Maintainer: CreatureSurvive
-Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 376
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
 Filename: ./debs/com.creaturecoding.pulltoclear_0.3.1_iphoneos-arm.deb
 Size: 25200
-Installed-Size: 376
 MD5sum: 9e842ba82b8f94b9559bbdb0eec401a0
+SHA1: fd99ebd659b127121d8adc56c586f4bf080118f2
+SHA256: 5b3f31fe24072975e928c87d483bffc9b2a09070203e144ef0a3556b8e89adda
+Section: Tweaks
 Description: PullToClear notifications on LS & NC
-Name: PullToClear
 Author: CreatureSurvive
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.pulltoclear/index.html
+Name: PullToClear
 
 Package: com.creaturecoding.selectivecontrols
 Version: 0.0.3
-Section: Tweaks
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate, applist, preferenceloader
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 344
+Depends: mobilesubstrate, applist, preferenceloader
 Filename: ./debs/com.creaturecoding.selectivecontrols_0.0.3_iphoneos-arm.deb
 Size: 6810
-Installed-Size: 344
 MD5sum: c71822af34f0d157a49d7e876fba53b8
+SHA1: 4e9a57e555a91d039eaadf998e7066847c45c023
+SHA256: 4f095bcb9abececdf1059b143af665d5aee6871cb8199b60a5236fe3ee0ca7f2
+Section: Tweaks
 Description: disable now playing controls for selected apps.
-Name: selectiveControls
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.selectivecontrols/index.html
+Name: selectiveControls
 
 Package: com.creaturecoding.switcherradii
 Version: 1.0.0
-Section: Tweaks
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.switcherradii_1.0.0_iphoneos-arm.deb
 Size: 4180
-Installed-Size: 204
 MD5sum: d621082876eb62cc8bca795b9a1b082d
+SHA1: f0841e606b63eeed70f549c94b21e8346e05ecaf
+SHA256: 1641126fe6d3bf4b7eeccd0ec77bd54fee476a052a6b1cf94e7386bc36ac67e7
+Section: Tweaks
 Description: rounded cards in the app switcher.
-Name: switcherRadii
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
+Name: switcherRadii
 
 Package: com.creaturecoding.switcherradii
 Version: 1.0.1
-Section: Tweaks
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.switcherradii_1.0.1_iphoneos-arm.deb
 Size: 6932
-Installed-Size: 204
 MD5sum: 47f0f16261d91a014d4f333525793795
+SHA1: fe759b52d0f060ad4514c5eb5946c1b60adbce70
+SHA256: 54ada9706a86c91e2e994167ba9967cda64f70d0cacec6588b4d47f669b4de86
+Section: Tweaks
 Description: rounded cards in the app switcher.
-Name: switcherRadii
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
+Name: switcherRadii
 
 Package: com.creaturecoding.switcherradii
 Version: 1.0.2
-Section: Tweaks
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 200
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.switcherradii_1.0.2_iphoneos-arm.deb
 Size: 3024
-Installed-Size: 200
 MD5sum: abe8960cd227e12eef9fd566d590e7cb
+SHA1: b8c167845310c6e7657fe9fc9d0c0484088ea458
+SHA256: d633f2c4d4c3ea079626758f068b3e024974274c453e1394c3e3800cb752a427
+Section: Tweaks
 Description: rounded cards in the app switcher.
-Name: switcherRadii
+Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
+Name: switcherRadii
 
 Package: com.creaturesurvive.flatfields
 Version: 0.0.5
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.flatfields_0.0.5_iphoneos-arm.deb
 Size: 3800
-Installed-Size: 136
 MD5sum: 00e133543de7b6676b315645a594d05b
+SHA1: 4106675508c8f1f4b5487b932b0e5bcce84c3f99
+SHA256: 379873722e45ac584da9329a061c9da25473943a4822d99d4263646911480e83
+Section: Tweaks
 Description: Removes background bubbles from textfields system wide
-Name: FlatFields
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.flatfields/index.html
+Name: FlatFields
 
 Package: com.creaturesurvive.flatfields
 Version: 0.0.7
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.flatfields_0.0.7_iphoneos-arm.deb
 Size: 3820
-Installed-Size: 136
 MD5sum: 723b6e59e19a895402f90bf0e0fefea3
+SHA1: e642e903bef978919b0cca6644eb1a07c4dc8511
+SHA256: 136039e0f82446cba84eec407b3ff4cbea99d19bf56464ff8aa6f9cd2bf54a83
+Section: Tweaks
 Description: Removes background bubbles from textfields system wide
-Name: FlatFields
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.flatfields/index.html
+Name: FlatFields
 
 Package: com.creaturesurvive.intelligentpower
 Version: 0.0.5
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 384
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.intelligentpower_0.0.5_iphoneos-arm.deb
 Size: 43872
-Installed-Size: 384
 MD5sum: 7fce9809fd342c7a80408ca780c4ac77
+SHA1: 337bcef8d4fb6d9b86b3d0f9a5dfecb14968e341
+SHA256: 14320779ff8d01038175daa66427319b78a493b8f0951e17ac70cddb07d5cf70
+Section: Tweaks
 Description: This is a beta package
-Name: IntelligentPower
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.intelligentpower/index.html
+Name: IntelligentPower
 
 Package: com.creaturesurvive.libcscolorpicker
 Version: 0.5.7
-Section: System
-Maintainer: CreatureSurvive
-Depends: 
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 388
 Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.5.7_iphoneos-arm.deb
 Size: 51782
-Installed-Size: 388
 MD5sum: 3ef838139385fd1bd1789ff01f091216
+SHA1: 78eb5b87d1c6afe2ae699fd6f72e67aee6d79363
+SHA256: 63643b9f32e8798a28c89f00301f4c6122229f22afb75bd001e858fd1a8bce9a
+Section: System
 Description: An awesome colorpicker library of some sort!!
-Name: libCSColorPicker
+Tag: role::developer
 Author: CreatureSurvive
+Name: libCSColorPicker
 
 Package: com.creaturesurvive.libcscolorpicker
 Version: 0.5.9
-Section: System
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate, applist, preferenceloader
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 388
+Depends: mobilesubstrate, applist, preferenceloader
 Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.5.9_iphoneos-arm.deb
 Size: 51866
-Installed-Size: 388
 MD5sum: ca8ef4902ea709fe7828438b72018f4d
+SHA1: db642dd41dc5e4f5f84d69dc4f784792c4f35e98
+SHA256: 7925684a3ae07f21b27aea6e113704b76c760e2f61b0b3e47829d0cfdb9071d5
+Section: System
 Description: A minimal color picker library for developers
-Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcscolorpicker/index.html
+Name: libCSColorPicker
 
 Package: com.creaturesurvive.motuumls
 Version: 0.0.8
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 500
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.motuumls_0.0.8_iphoneos-arm.deb
 Size: 60574
-Installed-Size: 500
 MD5sum: 499b7805c0bb58b21ce5dd07d791fe22
+SHA1: 128faf8659f7d9cc2da3a6bbdecb76b5b03cc8c8
+SHA256: 0fb446516dd9778f88720a6b83a870defc29c2e2bc29bb3444d78f80aa923290
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.motuumls
 Version: 0.1.0
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 552
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
 Filename: ./debs/com.creaturesurvive.motuumls_0.1.0_iphoneos-arm.deb
 Size: 69838
-Installed-Size: 552
 MD5sum: 3039d72dac3329b64cddac0444e0d3f4
+SHA1: aaba7bed310a1643da9a28558d653bdd49a1c2a4
+SHA256: c8b8fb5ad8a2e3e06456d91fa4761a4cb608c051d32d507bd249a0a6ef1c39ff
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.motuumls
 Version: 0.1.5
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 552
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
 Filename: ./debs/com.creaturesurvive.motuumls_0.1.5_iphoneos-arm.deb
 Size: 69840
-Installed-Size: 552
 MD5sum: 7d07022e471094d6df8b3139e92d6b75
+SHA1: dce4ecb3a6adec9d61d8df425f1141a3e03c4a7b
+SHA256: 3bae3a2867246bdc8a87d52557f0b83ac14101f236fa0d067352316234895d8f
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.motuumls
 Version: 0.1.7
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 556
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
 Filename: ./debs/com.creaturesurvive.motuumls_0.1.7_iphoneos-arm.deb
 Size: 69928
-Installed-Size: 556
 MD5sum: 21b048690d15a041a9e7e3b7809cf403
+SHA1: f105dfe3c0e02a8922094b5f6013ae48aff445b2
+SHA256: eb3fdc8d957371a746c492916cc8cf29a5628685f6cfdb26b5fcd406731d243d
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.motuumls
 Version: 0.1.9
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 556
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
 Filename: ./debs/com.creaturesurvive.motuumls_0.1.9_iphoneos-arm.deb
 Size: 70174
-Installed-Size: 556
 MD5sum: c336a9c00f9a6466035ae9d3fe19c315
+SHA1: 49858db0b00d05d8a9c69d971972aef66c79f508
+SHA256: 74d8cf85300f60de9b69a4b2812ef53933b5992f576192267207bf9d03e64dd8
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.motuumls
 Version: 2.0.5
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 664
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
 Filename: ./debs/com.creaturesurvive.motuumls_2.0.5_iphoneos-arm.deb
 Size: 105080
-Installed-Size: 664
 MD5sum: cc30c2521c44f7d85ccadbf61c1e40bc
+SHA1: afa9d6623e0e89d736e9ba5af491a05fe709a155
+SHA256: b03d9fd3a27f73db9cc1f6a2e3039c5b4c0949c85f515c9343bb51893eef6511
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.motuumls
 Version: 2.0.6
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 664
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
 Filename: ./debs/com.creaturesurvive.motuumls_2.0.6_iphoneos-arm.deb
 Size: 104964
-Installed-Size: 664
 MD5sum: 52644d23776f9cb057084d88b168c6fd
+SHA1: c9f2c5de7571f9c8ffb8a6cd207d3ea823b752ba
+SHA256: a7e37af8d4aed044530200fa14d693dfe8d298c0351d0133520ae2f15f607194
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.motuumls
 Version: 2.0.9
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 664
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
 Filename: ./debs/com.creaturesurvive.motuumls_2.0.9_iphoneos-arm.deb
 Size: 103968
-Installed-Size: 664
 MD5sum: 4aab1738ea67e93d5d6157d07028c266
+SHA1: e2b5f6969e1f51ea265fce52d209ccfc32a7d5ca
+SHA256: b84ad90bbca8a011f93a956d33fbd55401ba9adbe04415c250d72db271649f63
+Section: Tweaks
 Description: Customize your lockscreen your way!
-Name: motuumLS
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Name: motuumLS
 
 Package: com.creaturesurvive.nodropsheet
 Version: 0.0.2
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.2_iphoneos-arm.deb
 Size: 5124
-Installed-Size: 136
 MD5sum: 02d95ee40466e4735debe9a968ec98d0
+SHA1: eb3a29ce4cec59edc13b127a55839e8feeedb8fc
+SHA256: 5490ec6374c3de21d91f13605d1140b7da01f37e0687eb511ad0a07b36103265
+Section: Tweaks
 Description: removes airdrop section on share sheets(beta)
-Name: noDropSheet
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.com/depictions/com.creaturesurvive.nodropsheet/index.html
+Name: noDropSheet
 
 Package: com.creaturesurvive.nodropsheet
 Version: 0.0.3
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.3_iphoneos-arm.deb
 Size: 5144
-Installed-Size: 136
 MD5sum: 7ca40707973abd7e38c800458b2eb63c
+SHA1: 1395569b5228ab66b222e698afb26d383ffb73ba
+SHA256: 7c11e48fef4482d6bab39af364a723d2841b0338493a148a533dfda756270ffb
+Section: Tweaks
 Description: removes airdrop section on share sheets(beta)
-Name: noDropSheet
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturesurvive.nodropsheet/index.html
+Name: noDropSheet
 
 Package: com.creaturesurvive.predictionstickaround
 Version: 0.0.2
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.2_iphoneos-arm.deb
 Size: 3096
-Installed-Size: 136
 MD5sum: 43808537ab31ef3c76ade48631f9d068
+SHA1: 4b69f2c2fb3efd8d2ac8d12c30097407dd510a13
+SHA256: 2407e34a401c58938daaf309e7d131e20827d8066e6338cc6f687faa10b29fb9
+Section: Tweaks
 Description: disables swipe to dismiss on the predictive keyboard bar.
-Name: PredictionStickAround
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.com/depictions/com.creaturecoding.predictionstickaround/index.html
+Name: PredictionStickAround
 
 Package: com.creaturesurvive.predictionstickaround
 Version: 0.0.3
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
 Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.3_iphoneos-arm.deb
 Size: 3106
-Installed-Size: 136
 MD5sum: 973152df7451e15077a313ede7744469
+SHA1: 4d25255264a7c4e1fbb903b52f7750ec0230a858
+SHA256: 0e443c663314ccd8483a1d03e771732a0b44ab65a8a1a300c65084975f1417c9
+Section: Tweaks
 Description: disables swipe to dismiss on the predictive keyboard bar.
-Name: PredictionStickAround
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.predictionstickaround/index.html
+Name: PredictionStickAround
 
 Package: com.creaturesurvive.sera
 Version: 0.6.7
-Section: Tweaks
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Installed-Size: 980
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.creaturesurvive.sera_0.6.7_iphoneos-arm.deb
 Size: 240300
-Installed-Size: 980
 MD5sum: 31d17d489bcb8a4eb439049cd0270395
+SHA1: be2a91ce71b9aaa02be83f6c84b31ccb1e211b21
+SHA256: aebafb10e1a8f7d93867a911ec1a0c198bc32eec0fa196899a43a58d90751e0f
+Section: Tweaks
 Description: A complete LockScreen customization tool (beta)
-Name: sera
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturesurvive.sera/index.html
+Name: sera
 
