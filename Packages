@@ -280,6 +280,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
 Name: libCSWeather
 
+Package: com.creaturecoding.priorityhub
+Version: 2.0a-1+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 460
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.creaturecoding.priorityhub_2.0a-1+debug_iphoneos-arm.deb
+Size: 74234
+MD5sum: 3fe9542baa3770faa989582416aa3e30
+SHA1: ea74cb0b2de367df04ab5ba04794fac3f3582214
+SHA256: bfa59e4682a0b795f579b49aeb6dcea1dd251c35bfd1a6035037c1a687ce5d0a
+Section: Tweaks
+Homepage: http://thomasfinch.me
+Description: Organize your notifications!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: Organize your notifications on the LS and NC. this package was originaly developed by Thomas Finch.
+Name: Priority Hub 2 ALPHA
+
 Package: com.creaturecoding.pulltoclear
 Version: 0.2.1
 Architecture: iphoneos-arm
@@ -714,21 +732,4 @@ Description: A complete LockScreen customization tool (beta)
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturesurvive.sera/index.html
 Name: sera
-
-Package: me.thomasfinch.priorityhub
-Version: 2.0a-1+debug
-Architecture: iphoneos-arm
-Maintainer: Thomas Finch <tomf64@gmail.com>
-Installed-Size: 460
-Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/me.thomasfinch.priorityhub_2.0a-1+debug_iphoneos-arm.deb
-Size: 74154
-MD5sum: 127dbd529621dce6d11ea5fd75f7b0ac
-SHA1: 6cf44c5d7d763a53f8cb84e55e3cab8e3576cd2b
-SHA256: 3c8bac70441c9e7c8b3158d440a6026df99f2e1b54d28d078dd1d4b984166349
-Section: Tweaks
-Homepage: http://thomasfinch.me
-Description: Organize your notifications!
-Author: Thomas Finch <tomf64@gmail.com>
-Name: Priority Hub 2 ALPHA
 
