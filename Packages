@@ -48,6 +48,23 @@ Description: Organize your notifications on the LS and NC. this package was orig
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: Priority Hub 2 ALPHA
 
+Package: com.creaturecoding.consolidation
+Version: 1.0alpha1-2+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 584
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub, com.creaturecoding.testpackage
+Filename: ./debs/com.creaturecoding.consolidation_1.0alpha1-2+debug_iphoneos-arm.deb
+Size: 57476
+MD5sum: d083b38344164fdc777a80eed0204e9f
+SHA1: 8b7c5e7561e2e1418b107c29a9891f734f5051aa
+SHA256: 511e3c90e5361d2987e5ebc4ce9dc4bdaf9c3bd1915f0e6852c3e9ad97fc512f
+Section: Tweaks
+Description: Organize your notifications on the LS and NC. this package was originaly developed by Thomas Finch.
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: Consolidation ALPHA
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
@@ -487,6 +504,22 @@ Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
 Name: switcherRadii
+
+Package: com.creaturecoding.testpackage
+Version: 2.0.1a-1+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 72
+Depends: mobilesubstrate, com.creaturecoding.consolidation
+Filename: ./debs/com.creaturecoding.testpackage_2.0.1a-1+debug_iphoneos-arm.deb
+Size: 1524
+MD5sum: da128d7b007665b38767a69928232c20
+SHA1: 146bca0302cec1c190dd24496d9ab3592ced2918
+SHA256: 1d3aeaae82aa5386997dcb484fc31bbd3da7d2adde8e75f5d22965fe5f6ca709
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: TestPackage
 
 Package: com.creaturesurvive.flatfields
 Version: 0.0.5
