@@ -31,6 +31,23 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.alwaysplaying/index.html
 Name: alwaysPlaying
 
+Package: com.creaturecoding.consolidation
+Version: 1.0alpha1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 584
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
+Filename: ./debs/com.creaturecoding.consolidation_1.0alpha1-1+debug_iphoneos-arm.deb
+Size: 57510
+MD5sum: 88af2215fe5e8309dd8dc7165774b1d1
+SHA1: 15cfe848a17fb1773b333d1a6d9e22f6db6232da
+SHA256: 68403a7975ce86108125c36089e582df8b9eb70a7a3c3349558a2c542e4b93e5
+Section: Tweaks
+Description: Organize your notifications on the LS and NC. this package was originaly developed by Thomas Finch.
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: Priority Hub 2 ALPHA
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
