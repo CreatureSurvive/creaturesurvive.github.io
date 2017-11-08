@@ -65,6 +65,23 @@ Description: Organize your notifications on the LS and NC. this package was orig
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: Consolidation ALPHA
 
+Package: com.creaturecoding.consolidation
+Version: 1.0alpha3-1+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 748
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
+Filename: ./debs/com.creaturecoding.consolidation_1.0alpha3-1+debug_iphoneos-arm.deb
+Size: 87956
+MD5sum: c5ebdac0fb6cee167d67e4b5dccbe157
+SHA1: c817a9e85d7e4df45c68f4d7fbdacea3dd4db634
+SHA256: a764f9f529e9ffb4ba4ca7a84b4af73973728f6a60a526dc667f3a41d53a87c1
+Section: Tweaks
+Description: Organize your notifications on the LS and NC. this package was originaly developed by Thomas Finch.
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: Consolidation ALPHA
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
@@ -234,6 +251,24 @@ Size: 199680
 MD5sum: 54c00a379478ef1c52c5d48df4cac535
 SHA1: f8b6cb6ab5f224d8d681910fd3cd550675f104a2
 SHA256: 78c14086615507870f9729439c525200086aba58d3cb9355c696a21f6a3e9127
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
+Name: libCSPreferences
+
+Package: com.creaturecoding.libcspreferences
+Version: 0.7.9
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1056
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_0.7.9_iphoneos-arm.deb
+Size: 200028
+MD5sum: 521d2ad7164e5c42c9a8bdd95fd5a521
+SHA1: 246f0d00a1898a6aa5e682d8951dbf10779cfc6e
+SHA256: cb938e8971f3d6a7c13d7556fa96f8241360916c562cd22023cd16f7a84929e1
 Section: System
 Description: An awesome Preference Library!
 Tag: role::developer
