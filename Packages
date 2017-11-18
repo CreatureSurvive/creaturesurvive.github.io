@@ -100,6 +100,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://www.creaturecoding.com/depictions/cydia/?p=consolidation
 Name: Consolidation ALPHA
 
+Package: com.creaturecoding.consolidation
+Version: 1.0alpha5-2+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 920
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
+Filename: ./debs/com.creaturecoding.consolidation_1.0alpha5-2+debug_iphoneos-arm.deb
+Size: 117978
+MD5sum: 6bb646bcc0d174a7a07b88d98434c18a
+SHA1: 0333ba3cdfa2d7c1652423de12fd7052f7aabef0
+SHA256: e5b68351d4d59b1b76c22453348cccc7eba740980377295e97a75cb6889196ce
+Section: Tweaks
+Description: Organize and sort notifications on the LS and NC.
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://www.creaturecoding.com/depictions/cydia/?p=consolidation
+Name: Consolidation ALPHA
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
