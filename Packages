@@ -522,6 +522,23 @@ Author: CreatureSurvive
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.pulltoclear/index.html
 Name: PullToClear
 
+Package: com.creaturecoding.reachalert
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.reachalert_0.0.1_iphoneos-arm.deb
+Size: 15078
+MD5sum: ba76635da61a41a1f234e986f0447f43
+SHA1: e41a791e0915fe40537a3cf2d0c565672376c4bd
+SHA256: 4abb52a19a1eb913c5ac089dfacc0bf51a75e9aa6e8c212e4946e8769310101b
+Section: Tweaks
+Description: Get notified on network connectivity changes!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/depictions/cydia/index.html?p=reachalert
+Name: ReachAlert
+
 Package: com.creaturecoding.selectivecontrols
 Version: 0.0.3
 Architecture: iphoneos-arm
