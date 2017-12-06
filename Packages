@@ -539,6 +539,23 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/depictions/cydia/index.html?p=reachalert
 Name: ReachAlert
 
+Package: com.creaturecoding.reachalert
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.reachalert_0.0.3_iphoneos-arm.deb
+Size: 16856
+MD5sum: 661f3ab92ac78c17b7cb3e784bb68a7e
+SHA1: 8dd22808181c8dbefbd7278086779e5b28a253fb
+SHA256: 0b7b4cad9d9a46f79fbfc983537ffc0f57ceab7574fe59a73a7886cc0e32f7ea
+Section: Tweaks
+Description: Get notified on network connectivity changes!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/depictions/cydia/index.html?p=reachalert
+Name: ReachAlert
+
 Package: com.creaturecoding.selectivecontrols
 Version: 0.0.3
 Architecture: iphoneos-arm
