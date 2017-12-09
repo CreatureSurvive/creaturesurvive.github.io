@@ -118,6 +118,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://www.creaturecoding.com/depictions/cydia/?p=consolidation
 Name: Consolidation ALPHA
 
+Package: com.creaturecoding.consolidation
+Version: 1.0alpha6-2+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 932
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub, com.gilshahar7.taptoopen
+Filename: ./debs/com.creaturecoding.consolidation_1.0alpha6-2+debug_iphoneos-arm.deb
+Size: 118536
+MD5sum: 9e2274604732afd62089b89a905697fa
+SHA1: 9b869a3a7e993a79252dbe57377909131448457f
+SHA256: e06b885386b51a4c0e4133e2688e42c7e1c534ad6a00ef8392803fe5a6a78a73
+Section: Tweaks
+Description: Organize and sort notifications on the LS and NC.
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://www.creaturecoding.com/depictions/cydia/?p=consolidation
+Name: Consolidation ALPHA
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
@@ -338,9 +356,9 @@ Installed-Size: 1172
 Depends: preferenceloader, mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_0.9.0_iphoneos-arm.deb
 Size: 219626
-MD5sum: 96fc9829e73eea5509f90f7520bfe817
-SHA1: 16b902f1aefd1f8a6b71f56f46059f0c17ec6f6e
-SHA256: 9f239c62e387ffe41721e7edc96973aaa87c186c3d2599f3b4c49d103b24884f
+MD5sum: cb23e08d57bed40deb30799b24dfcb1e
+SHA1: 5394dbfee347de96bb0d665e8af3e24cfdd24534
+SHA256: b40ddb47b1dc1fed7387eb1e014bea04e30d6ae9f7c6fa24fe04e14a5b90a2f3
 Section: System
 Description: An awesome Preference Library!
 Tag: role::developer
