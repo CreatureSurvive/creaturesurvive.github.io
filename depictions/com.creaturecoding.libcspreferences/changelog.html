@@ -18,6 +18,31 @@
       <p>libCSPreferences Changelog</p>
     </block>
 
+    <label>Version 0.9.0 (December 9, 2017)</label>
+    <fieldset>
+      <div>
+        <li>- Fixed crash when 3dTouching imageCell in backup views</li>
+        <li>- Added CSPSideImageCell as a proper image selection cell with options to store selected image in a directory of
+          your choice</li>
+        <li>- Modified the image preview controller, will be adding UIDocumentInteractionController in the future</li>
+        <li>- Lots of improvements to the CSPMailComposeManager</li>
+        <li> - Added option to attach files with auto detected mime-types</li>
+        <li> - Added option to include logs (Cydia.log, Package.log, Condensed Package.log)</li>
+        <li> - Added device information heads including (Device Name, Device Model, and Device Software Version)</li>
+        <li>- Modified the layout of the entire project, everything is now better organized and easier to maintain. </li>
+        <li>- Cleaned up the headers throughout the project which fixed many issues with the compilation process</li>
+        <li>- Added proper restring support with option to either respring with a nice fade out animation or restring and return
+          to the settings page</li>
+        <li>- Added ‘isDecimalWithNegetive’ keyboard option to PSEditTextCell specifiers which adds a keyboard toolbar with an
+          option to toggle negative/positive on the DecimalKeypad</li>
+        <li>- Refactored all the alert views for copying tweak lists and resprings</li>
+        <li>- Added alpha, red, green, blue, hue, saturation, and brightness convenience methods to UIColor+ColorFromHex </li>
+        <li>- Fixed compilation error with with the CSPBackupItemView (that was annoying)</li>
+        <li>- Added Preview for CSPSideImageCell</li>
+        <li>- Added CSPProcessManager for running commands via NSTask rather than ugly posix_spawn or depreciated system()</li>
+      </div>
+    </fieldset>
+
     <label>Version 0.8.0 (November 28, 2017)</label>
     <fieldset>
       <div>
