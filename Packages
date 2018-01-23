@@ -456,6 +456,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
 Name: libCSPreferences
 
+Package: com.creaturecoding.libcspreferences
+Version: 0.9.7
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1228
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_0.9.7_iphoneos-arm.deb
+Size: 242864
+MD5sum: eb5cb18a4fda0a7f32294e337588d3a6
+SHA1: 3a370da585d1c5c4fd82cd20ecef6ffba61cb800
+SHA256: 2588e5be2fc88e1475cc9dd3f912d0b5cf71596c501d957966c07a0985a6f5a9
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
+Name: libCSPreferences
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
