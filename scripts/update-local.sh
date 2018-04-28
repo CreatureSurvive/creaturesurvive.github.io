@@ -32,6 +32,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/pulltoclear/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/Consolidation/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/reachalert/.theos/_ debs
+# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/copyvideourl/.theos/_ debs
 
 
 #packages

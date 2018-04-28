@@ -154,6 +154,22 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://www.creaturecoding.com/depictions/cydia/?p=consolidation
 Name: Consolidation ALPHA
 
+Package: com.creaturecoding.copyvideourl
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.copyvideourl_0.0.1-7+debug_iphoneos-arm.deb
+Size: 4700
+MD5sum: 825e84d8aed0a3f308b83f4a83c666c5
+SHA1: 38c2b86d8ef8d00781eccfbd7d6d8019b5616689
+SHA256: d3b4ed2829ddf84591d224f0f9ee7b445ddb6499099219e1cab1f626740b1df8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: CopyVideoURL
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
