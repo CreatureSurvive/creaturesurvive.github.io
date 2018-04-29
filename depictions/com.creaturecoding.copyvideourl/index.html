@@ -20,14 +20,16 @@
   <panel>
     <fieldset class="iosver">
       <div data-min-ios="9.0" data-max-ios="11.1.2" class="prerequisite">
-        <p>Supports iOS &gt; 9.0</p>
+        <p>Supports iOS &gt; 9.0 &lt; 11.2</p>
       </div>
     </fieldset>
     <label>Info</label>
     <fieldset>
       <div>
-        <p>Copies the URL for the currently playing video (usefull for apps that dont support Chromecast)
-          <em>Note: Does not support videos played in webviews or certain apps with custom video players.</em>
+        <p>
+          Copies the URL of videos played in the native `MPMoviePlayerController`. This is useful for using CromeCast with apps that
+          don't support it.
+          <em>This does not work for videos played in WebViews, or custom video players.</em>
         </p>
       </div>
       <!-- <a href="./screenshots.html">

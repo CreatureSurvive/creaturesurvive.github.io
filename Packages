@@ -170,6 +170,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: CopyVideoURL
 
+Package: com.creaturecoding.copyvideourl
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.copyvideourl_0.1.0_iphoneos-arm.deb
+Size: 3920
+MD5sum: 72f2558ee6ab9c7cfbab6ce16838cf1d
+SHA1: f6b3f644546f6788986d565cf34fe27271253a4c
+SHA256: 7ce7e8bc1a304276698b02010a58b433cf33730af1ae99d2339d18b946eaef46
+Section: Tweaks
+Description: Copy URL of currently playing video
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.copyvideourl/index.html
+Name: CopyVideoURL
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
