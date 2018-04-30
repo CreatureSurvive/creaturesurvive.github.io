@@ -31,6 +31,22 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.alwaysplaying/index.html
 Name: alwaysPlaying
 
+Package: com.creaturecoding.attributionless
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.attributionless_1.0.0_iphoneos-arm.deb
+Size: 2764
+MD5sum: 174a8af12d1c497ae709480693453d7b
+SHA1: 0a7cce2280c17582b8879c3552c9eca1ee2cf4ea
+SHA256: 1f4689582449446712680454a8329bbedbcbffc5cb300972762f8b665b24fa66
+Section: Tweaks
+Description: removes the wether provider attribution text in the Notification Center and Today View on iOS 10 & 11 (maybe 9 as well).
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: attibutionless
+
 Package: com.creaturecoding.consolidation
 Version: 1.0alpha1-5+debug
 Architecture: iphoneos-arm
