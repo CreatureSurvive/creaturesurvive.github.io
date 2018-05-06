@@ -18,8 +18,7 @@ bzip2 -fks Packages
 #git
 git add .
 
-DATE="date '+%Y-%m-%d %H:%M:%S'"
-msg="rebuilding Packages 'DATE'"
+msg="rebuilding Packages date '+%Y-%m-%d %H:%M:%S'"
 if [$# -eq 1]
 	then msg="$1"
 fi
