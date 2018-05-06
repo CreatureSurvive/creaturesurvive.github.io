@@ -18,11 +18,9 @@ bzip2 -fks Packages
 #git
 git add .
 
-msg="rebuilding Packages 'date'"
+DATE="date '+%Y-%m-%d %H:%M:%S'"
+msg="rebuilding Packages 'DATE'"
 if [$# -eq 1]
 	then msg="$1"
 fi
 git commit -m "$msg"
-
-echo pushing to master
-git push origin master
