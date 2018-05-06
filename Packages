@@ -566,7 +566,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.creaturecoding.reachcc_0.5-2+debug_iphoneos-arm.deb
 Size: 3574
 Installed-Size: 120
-MD5sum: 7e1864acb8939b776b7540c3e79674a2
+MD5sum: da40c7379f9183153535867b56cb9a0a
 Description: Activate the Control Center on iPhone X using the reachability gesture.
 
 Package: com.creaturecoding.selectivecontrols
