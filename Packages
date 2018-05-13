@@ -903,22 +903,22 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.selectivecontrols/index.html
 Name: selectiveControls
 
-Package: com.creaturecoding.strecher
+Package: com.creaturecoding.stretcher
 Version: 0.5.0b
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.strecher_0.5.0b_iphoneos-arm.deb
-Size: 2090
-MD5sum: 180b02ec0154b7eb843d5cba67d88a29
-SHA1: 90e8e90fcb8d674459a0d3a10c8ae64013907dc0
-SHA256: e4a42888affe5a35691386e24671580ecd70cc1aad5f6e5dcd7930225c27262d
+Filename: ./debs/com.creaturecoding.stretcher_0.5.0b_iphoneos-arm.deb
+Size: 2096
+MD5sum: c30d6e224ba1e1ef5ae8fd59e53ea0f6
+SHA1: 4961efa34adf5dce65a269f4428bd4288f344172
+SHA256: f1b41047804116e7c3a9a5fd4e29b421041d532dc4d8b36abe46a1abfcbfaa3f
 Section: Tweaks
 Description: force apps to use full screen on iPhone X
 Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturesurvive.github.io/repo/cydia/strecher/depiction/
-Name: strecher
+Depiction: https://creaturesurvive.github.io/repo/cydia/stretcher/depiction/
+Name: stretcher
 
 Package: com.creaturecoding.switcherradii
 Version: 1.0.0
