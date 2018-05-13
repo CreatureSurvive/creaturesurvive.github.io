@@ -34,8 +34,9 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/reachalert/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/copyvideourl/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/attibutionless/.theos/_ debs
-dpkg-deb -bZlzma ~/Projects/Theos/tweaks/ToothModule/.theos/_ debs
+# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/ToothModule/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/switcherRadiiXI/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/strecher/.theos/_ debs
 
 
 #packages
