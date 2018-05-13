@@ -923,6 +923,23 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
 Name: switcherRadii
 
+Package: com.creaturecoding.switcherradiixi
+Version: 1.0.0b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.switcherradiixi_1.0.0b_iphoneos-arm.deb
+Size: 36580
+MD5sum: 4835cc429f3475ee7c0c03e19148d990
+SHA1: a5a22e96ff486ea067cbff0f07dac9bee641fee8
+SHA256: dc4f1a533c3766b6104a46266c72942582396dab94c0ba83b8457673d6078ade
+Section: Tweaks
+Description: sets the corner radius of the app switcher cards
+Author: CreatureSurvive
+Depiction: https://creaturesurvive.github.io/repo/cydia/switcherradiixi/depiction/
+Name: switcherRadiiXI
+
 Package: com.creaturesurvive.flatfields
 Version: 0.0.5
 Architecture: iphoneos-arm
