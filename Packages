@@ -15,6 +15,23 @@ Author: CreatureSurvive
 Depiction: https://creaturesurvive.github.io/repo/cydia/ebullience/depiction/
 Name: ebullience
 
+Package: com.creaturecodiing.ebullience
+Version: 1.0.1b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 176
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debs/com.creaturecodiing.ebullience_1.0.1b_iphoneos-arm.deb
+Size: 14608
+MD5sum: dda9281a026dc1fa7942451deab1a086
+SHA1: d14b74122c3242c4faf9a48f06f247d64e369577
+SHA256: af9b25c1a12fa4fdc68cc449a2ce322c07de699247ba58de27e32125e91c46c0
+Section: Tweaks
+Description: Animated UITableViews
+Author: CreatureSurvive
+Depiction: https://creaturesurvive.github.io/repo/cydia/ebullience/depiction/
+Name: ebullience
+
 Package: com.creaturecoding.alwaysplaying
 Version: 0.0.7
 Architecture: iphoneos-arm
