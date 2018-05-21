@@ -1,3 +1,20 @@
+Package: com.creaturecodiing.ebullience
+Version: 0.5.2b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecodiing.ebullience_0.5.2b_iphoneos-arm.deb
+Size: 14576
+MD5sum: 53517226fa5d9ab344d1ce5f2a6abea2
+SHA1: 78176dcb1d6785ad38a80475f2c830762bbd7ec1
+SHA256: 5ac7b4010097131bc890c4adfc903c12171b55f630a3730f86ae1fcc29979c25
+Section: Tweaks
+Description: Animated UITableViews
+Author: CreatureSurvive
+Depiction: https://creaturesurvive.github.io/repo/cydia/ebullience/depiction/
+Name: ebullience
+
 Package: com.creaturecoding.alwaysplaying
 Version: 0.0.7
 Architecture: iphoneos-arm
@@ -574,6 +591,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcspreferences/index.html
 Name: libCSPreferences
 
+Package: com.creaturecoding.libcspreferences
+Version: 0.9.8
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1120
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_0.9.8_iphoneos-arm.deb
+Size: 217968
+MD5sum: 86410134c971bd1d102852f47516b407
+SHA1: 2a32afabfb3bef53096668faed3309c8be0f138c
+SHA256: 17313788501337dac56dde9f579953984c39f1888c2a03fbf0705de79cc4236f
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+Name: libCSPreferences
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
@@ -902,6 +937,23 @@ Tag: role::developer
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.selectivecontrols/index.html
 Name: selectiveControls
+
+Package: com.creaturecoding.shuffle
+Version: 0.5.7b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 192
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debs/com.creaturecoding.shuffle_0.5.7b_iphoneos-arm.deb
+Size: 20570
+MD5sum: 47a380e2934bae27887b9d243b11bf96
+SHA1: 311b691e64c6f281a514b49ab717b421405c0447
+SHA256: 5ac1f96aea3a096cf9a4b14551369089f87d0a9f4cdaf3c33108799ad3ae85b4
+Section: Tweaks
+Description: Mix up your preferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
+Name: shuffle
 
 Package: com.creaturecoding.stretcher
 Version: 0.5.0b
