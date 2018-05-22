@@ -626,6 +626,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
 Name: libCSPreferences
 
+Package: com.creaturecoding.libcspreferences
+Version: 0.9.9
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1368
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9_iphoneos-arm.deb
+Size: 221650
+MD5sum: 8599e9f9da395c85db2714839f7a8618
+SHA1: 9e8553a5ce54c262d4bb6a1eae5e8c044f65fa61
+SHA256: 6602df5f1ac09b8d7ad63e3dd18816134c49fe634bc024c7bd16d83ebd5be8c0
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+Name: libCSPreferences
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
@@ -983,6 +1001,23 @@ Size: 45978
 MD5sum: e680d5926744a529ed83a7d3a3a937cf
 SHA1: 1358eaa4dcee8ab7a559c616215245a88377be46
 SHA256: 30e771e4f73ea09aa0a42bea9ebfa86e393ca4eebc6e49860ba645f78cfed95f
+Section: Tweaks
+Description: Mix up your preferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
+Name: shuffle
+
+Package: com.creaturecoding.shuffle
+Version: 0.6.4b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 256
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debs/com.creaturecoding.shuffle_0.6.4b_iphoneos-arm.deb
+Size: 50780
+MD5sum: b2fb98dcf3e7dd6c8563a2f30497d927
+SHA1: d804dce4ca7bc06bd1d4bc57a590cdd6f4ef0752
+SHA256: 1f5f51551b0d4e45dbff72227295f0ae7c6e89d7281b6ccd7169655d07891909
 Section: Tweaks
 Description: Mix up your preferences
 Author: CreatureSurvive <support@creaturecoding.com>

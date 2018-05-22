@@ -28,7 +28,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/alwaysPlaying/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/selectivecontrols/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/cscolorpicker/.theos/_ debs
-# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libcspreferences/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/libcspreferences/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/pulltoclear/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/Consolidation/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/reachalert/.theos/_ debs
@@ -37,7 +37,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/ToothModule/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/switcherRadiiXI/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/stretcher/.theos/_ debs
-# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/shuffle/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/shuffle/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/ebullience/.theos/_ debs
 
 
