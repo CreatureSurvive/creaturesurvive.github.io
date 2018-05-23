@@ -1024,6 +1024,23 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
 Name: shuffle
 
+Package: com.creaturecoding.shuffle
+Version: 0.6.5b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 256
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debs/com.creaturecoding.shuffle_0.6.5b_iphoneos-arm.deb
+Size: 50868
+MD5sum: 2c8c8f6ede5fde8b2fc1eaadee5d0a8e
+SHA1: 730c8c984aded21b2e5dab3f420b23fa8ab1fb44
+SHA256: 04f06bdea5a60e9e5b29c3c092511f7e93979df752ca1dd7c6b36eafac830049
+Section: Tweaks
+Description: Mix up your preferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
+Name: shuffle
+
 Package: com.creaturecoding.stretcher
 Version: 0.5.0b
 Architecture: iphoneos-arm
