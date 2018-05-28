@@ -39,6 +39,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/stretcher/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/shuffle/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/ebullience/.theos/_ debs
+dpkg-deb -bZlzma ~/Projects/Theos/tweaks/simmerdown/.theos/_ debs
 
 
 #packages
