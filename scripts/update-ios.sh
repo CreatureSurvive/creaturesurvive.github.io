@@ -11,7 +11,7 @@ dpkg-deb -b /var/mobile/dev/Repositories/simmerdown/.theos/_ debs
 
 #packages
 echo building Packages
-scanpackages -m . /dev/null >Packages
+$THEOS/bin/scanpackages -m . /dev/null >Packages
 
 #compress
 echo compressing Packages
