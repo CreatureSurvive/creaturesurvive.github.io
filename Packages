@@ -288,6 +288,26 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.copyvideourl/index.html
 Name: CopyVideoURL
 
+Package: com.creaturecoding.crux
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 68
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.creaturecoding.crux_1.0.0_iphoneos-arm.deb
+Size: 2784
+MD5sum: f981050a79303069332bc1a3f881ceed
+SHA1: fa939c99522a475e51486be13e3cf395c00db299
+SHA256: e08f8043f2e67df8a1e0bd1fb0ed7e052e40d29179859688aefec76412add126
+Section: System
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: run any command as root. `crux /usr/bin/dpkg install com.creaturcoding.crux`
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/crux/depiction/
+Dev: CreatureSurvive
+Name: crux
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
