@@ -288,6 +288,26 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.copyvideourl/index.html
 Name: CopyVideoURL
 
+Package: com.creaturecoding.covert
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.creaturecoding.covert_0.6_iphoneos-arm.deb
+Size: 5476
+MD5sum: c92d18f6290853fe009a63fe0543b098
+SHA1: 355ba419e1869c300980510d93f6b6dd5ce2b065
+SHA256: d2f7f54546812d34c7e64629e1e3d47b39341ecaa23cb5e908386a2cbf1d361d
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Hide & silence conversations in Messages app.
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/covert/depiction/
+Dev: CreatureSurvive
+Name: covert
+
 Package: com.creaturecoding.crux
 Version: 1.0.0
 Architecture: iphoneos-arm

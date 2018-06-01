@@ -41,6 +41,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/ebullience/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/simmerdown/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/crux/.theos/_ debs
+# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/covert/.theos/_ debs
 
 
 #packages
