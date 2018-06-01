@@ -19,6 +19,7 @@ function usage() {
   echo "  -m, --commit-message      The git commit message "
   echo "  -g, --git-commit          If passed, then commit changes "
   echo "  -p, --project-directory   the theos project directory "
+  echo "  -t, --tweaks-directory    pass tewak directory as arg if you dont have it exported in your environment "
   echo "  -c, --clean-debs          remove old debs i.e. no downgrade option "
   echo "  -h, -help                 display this help message "
   echo ""
@@ -31,6 +32,7 @@ while [[ "$#" > 0 ]]; do case $1 in
   -m|--commit-message) COMMIT_MESSAGE="$2"; shift;shift;;
   -g|--git-commit) GIT_COMMIT="$2"; shift;shift;;
   -p|--project-directory) DIRECTORY="$2";shift;shift;;
+  -t|--tweaks-directory) TWEAKS="$2";shift;shift;;
   -c|--clean-debs) CLEAN=1;shift;shift;;
   -h|-help) usage; shift; shift;;
   *) usage "Unknown parameter passed: $1"; shift; shift;;
@@ -39,7 +41,7 @@ esac; done
 # verify params
 if [ -z "$DIRECTORY" ]; then usage "Project directory is not set."; fi;
 if [ -z "$TWEAKS" ]; 
-	then echo -e "${RED}TWEAKS not defined, ${YELLOW}export TWEAKS=/path/to/tweaks/folder ${RED}in your environment and try again. "; 
+	then echo -e "${RED}TWEAKS not defined, ${YELLOW}use [-t, -tweaks-directory ~/tweaks/directory] or export TWEAKS=/path/to/tweaks/folder ${RED}in your environment and try again. "; 
 	exit 1
 fi;
 
