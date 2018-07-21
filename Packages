@@ -98,6 +98,26 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/attributionless/depiction/
 Name: attributionless
 
+Package: com.creaturecoding.bubbles
+Version: 0.1.0b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 272
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.creaturecoding.bubbles_0.1.0b_iphoneos-arm.deb
+Size: 42762
+MD5sum: 1f9312f6341e0e61eceaefbc5e682738
+SHA1: 5a5b96ae8de2cf450b9819aff50713f17ec00736
+SHA256: a5b1b812743365070eefea7ecdd3aa386ccad88f0ecfb37f53a44ea58360d1a4
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Make your Messages pop!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
+Dev: CreatureSurvive
+Name: bubbles
+
 Package: com.creaturecoding.consolidation
 Version: 1.0alpha1-5+debug
 Architecture: iphoneos-arm

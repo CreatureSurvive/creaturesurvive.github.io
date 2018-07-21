@@ -39,6 +39,7 @@ echo building debs
 # dpkg-deb -bZlzma $TWEAKS/simmerdown/.theos/_ debs
 # dpkg-deb -bZlzma $TWEAKS/crux/.theos/_ debs
 # dpkg-deb -bZlzma $TWEAKS/covert/.theos/_ debs
+# dpkg-deb -bZlzma $TWEAKS/bubbles/.theos/_ debs
 
 #packages
 echo building Packages
