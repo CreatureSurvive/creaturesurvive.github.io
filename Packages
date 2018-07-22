@@ -118,6 +118,26 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
 Dev: CreatureSurvive
 Name: bubbles
 
+Package: com.creaturecoding.bubbles
+Version: 0.1.4b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 288
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.creaturecoding.bubbles_0.1.4b_iphoneos-arm.deb
+Size: 43932
+MD5sum: 218c5a72ccfde4238bba532695e804a9
+SHA1: fa9613de21f205285e202d911c5873c2ecf046d2
+SHA256: 309d9a416b4af91084055af612ab73a13f5977ffe5cd1acd844d5848e2448a6c
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Make your Messages pop!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
+Dev: CreatureSurvive
+Name: bubbles
+
 Package: com.creaturecoding.consolidation
 Version: 1.0alpha1-5+debug
 Architecture: iphoneos-arm
@@ -760,6 +780,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
 Name: libCSPreferences
 
+Package: com.creaturecoding.libcspreferences
+Version: 0.9.9.4
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1572
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.4_iphoneos-arm.deb
+Size: 250346
+MD5sum: 991cbec634985b591af6273b884248fe
+SHA1: aa02d4762f94fa1c4d6a786e0c80bfff06ac77e8
+SHA256: fa38279151769a09fa243e5683f228d48e1bbfe8da48917a5869c0fd0403194f
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+Name: libCSPreferences
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
@@ -1380,6 +1418,23 @@ Section: System
 Description: A minimal color picker library for developers
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcscolorpicker/index.html
+Name: libCSColorPicker
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 0.6.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 388
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.6.0_iphoneos-arm.deb
+Size: 54718
+MD5sum: e6e7277e1e21c260b94c6ee08e3de6f9
+SHA1: de4761de4c19359029d96198402f23e291ff7067
+SHA256: 8db95630b358385132f6106bd6c18d9ecc63fdcbd2fe346850bf5ffc979e13b3
+Section: System
+Description: A minimal color picker library for developers
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcscolorpicker/depiction/
 Name: libCSColorPicker
 
 Package: com.creaturesurvive.motuumls
