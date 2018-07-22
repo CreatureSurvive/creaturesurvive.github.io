@@ -388,6 +388,26 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/crux/depiction/
 Dev: CreatureSurvive
 Name: crux
 
+Package: com.creaturecoding.cyground
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.cyground_1.0.0_iphoneos-arm.deb
+Size: 3956
+MD5sum: f20e0eda8829df6e11d8e9b8a777ed2f
+SHA1: ee50617d4083278d98cf697db688938e29997d47
+SHA256: 038da80d8a3aebd3610254a6afe615359d4cbd363ea108a8e999e9e15bab52f5
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Run cydia in the background
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/cyground/depiction/
+Dev: CreatureSurvive
+Name: cyground
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
