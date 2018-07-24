@@ -8,6 +8,7 @@ echo building debs
 # dpkg-deb -b /var/mobile/dev/Repositories/ReachCC/.theos/_ debs
 # dpkg-deb -b /var/mobile/dev/Repositories/attributionless/.theos/_ debs
 # dpkg-deb -b /var/mobile/dev/Repositories/simmerdown/.theos/_ debs
+dpkg-deb -b /var/mobile/Repositories/bubbles/.theos/_ debs
 
 #packages
 echo building Packages
