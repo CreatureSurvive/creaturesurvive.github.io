@@ -43,7 +43,7 @@
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/crux/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/covert/.theos/_ debs
 # dpkg-deb -bZlzma ~/Projects/Theos/tweaks/bubbles/.theos/_ debs
-dpkg-deb -bZlzma ~/Projects/Theos/tweaks/cyground/.theos/_ debs
+# dpkg-deb -bZlzma ~/Projects/Theos/tweaks/cyground/.theos/_ debs
 
 
 #packages
