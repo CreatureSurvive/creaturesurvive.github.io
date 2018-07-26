@@ -198,6 +198,26 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
 Dev: CreatureSurvive
 Name: bubbles
 
+Package: com.creaturecoding.bubbles
+Version: 0.2.0b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 356
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.creaturecoding.bubbles_0.2.0b_iphoneos-arm.deb
+Size: 53450
+MD5sum: e9c1c0ff5bb09da7e35b3488adf5654d
+SHA1: fa3b0c93ceacca5e617cca3b17be611f2a7093a5
+SHA256: 79b27d8e09f3b647aee5fd104d50601bd9d4a2bb660a87630d2f5e3d283041b9
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Make your Messages pop!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
+Dev: CreatureSurvive
+Name: bubbles
+
 Package: com.creaturecoding.consolidation
 Version: 1.0alpha1-5+debug
 Architecture: iphoneos-arm
@@ -871,6 +891,24 @@ Size: 250346
 MD5sum: 991cbec634985b591af6273b884248fe
 SHA1: aa02d4762f94fa1c4d6a786e0c80bfff06ac77e8
 SHA256: fa38279151769a09fa243e5683f228d48e1bbfe8da48917a5869c0fd0403194f
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+Name: libCSPreferences
+
+Package: com.creaturecoding.libcspreferences
+Version: 0.9.9.5
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1604
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.5_iphoneos-arm.deb
+Size: 254494
+MD5sum: 6a8f1cd4845df42b274a9517954b0d15
+SHA1: eaafa46e42c18acc1abd9807c03e97206b9113ee
+SHA256: a8968a028c7e0e8cc5eb656d1466fad01c98e46ee82b1ecbc174d2c365fd42ab
 Section: System
 Description: An awesome Preference Library!
 Tag: role::developer
