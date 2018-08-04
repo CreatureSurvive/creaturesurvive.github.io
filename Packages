@@ -508,6 +508,26 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/cyground/depiction/
 Dev: CreatureSurvive
 Name: cyground
 
+Package: com.creaturecoding.cyground
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 400
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.cyground_1.2.0_iphoneos-arm.deb
+Size: 5088
+MD5sum: 5045bd8d6ecb592dbc14e0784c9a381b
+SHA1: 1bf13379dafc5b43c71997f4c669cfababe0996c
+SHA256: 77f4c485652fd3a3cf1dae0963b7698705a8e8a96f378c5570421c587acd4e52
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Run cydia in the background
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/cyground/depiction/
+Dev: CreatureSurvive
+Name: cyground
+
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
