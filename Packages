@@ -1478,6 +1478,23 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/simmerdown/depiction/
 Name: simmerDown
 
+Package: com.creaturecoding.simmerdown
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.simmerdown_1.3.1_iphoneos-arm.deb
+Size: 5986
+MD5sum: b54f9644d0e3445748ae97ff95e72d2c
+SHA1: 45e14c7388e46ef9daf77bca924cbd766b0e0411
+SHA256: 5cc995e0249bedd35be141c602c182e8234f623c21b0e83af7e8dd819d8c71b5
+Section: Tweaks
+Description: kill mediaserverd when exiting the Camera app.
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/simmerdown/depiction/
+Name: simmerDown
+
 Package: com.creaturecoding.stretcher
 Version: 0.5.0b
 Architecture: iphoneos-arm
