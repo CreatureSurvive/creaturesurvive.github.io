@@ -1583,6 +1583,26 @@ Author: CreatureSurvive
 Depiction: https://creaturesurvive.github.io/repo/cydia/switcherradiixi/depiction/
 Name: switcherRadiiXI
 
+Package: com.creaturecoding.wtfeclipse
+Version: 0.4.2
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive (support@creaturecoding.com)
+Installed-Size: 72
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.creaturecoding.wtfeclipse_0.4.2_iphoneos-arm.deb
+Size: 4122
+MD5sum: e7ab666e906db9b4d58e6020d2859021
+SHA1: 5cd760541371fcc51ac3a0a67ebdf3a0558ab4c6
+SHA256: 9413d44d5747cf4c47e522ef5a5462ce2224d803c78ef11296ee8a61dcbf86eb
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Fix annoying issues with EclipseX
+Author: CreatureSurvive (support@creaturecoding.com)
+Depiction: https://creaturesurvive.github.io/repo/cydia/wtfeclipse/depiction/
+Dev: CreatureSurvive
+Name: WTFEclipse
+
 Package: com.creaturesurvive.flatfields
 Version: 0.0.5
 Architecture: iphoneos-arm
