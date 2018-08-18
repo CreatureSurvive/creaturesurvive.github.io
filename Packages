@@ -280,6 +280,28 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
 Dev: CreatureSurvive
 Name: bubbles
 
+Package: com.creaturecoding.bubbles
+Version: 0.2.9b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 436
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Filename: ./debs/com.creaturecoding.bubbles_0.2.9b_iphoneos-arm.deb
+Size: 65740
+MD5sum: e5b65a23711da98ce4e47d56659cc4ff
+SHA1: 9cb19bb802cb4d3d71855997df7b1ac50bda6655
+SHA256: 1d3625a41eddd7e235144757547fd33435ce92a0b60767c3c3734c6bc6a9c061
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Make your Messages pop!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
+Dev: CreatureSurvive
+Name: bubbles
+
 Package: com.creaturecoding.consolidation
 Version: 1.0alpha1-5+debug
 Architecture: iphoneos-arm
