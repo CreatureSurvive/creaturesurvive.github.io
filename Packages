@@ -1254,6 +1254,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/packages/libcsweather/depiction/
 Name: libCSWeather
 
+Package: com.creaturecoding.libcsweather
+Version: 0.5.6b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcsweather_0.5.6b_iphoneos-arm.deb
+Size: 38662
+MD5sum: 0574e60fb640e84dbfac13298d54c182
+SHA1: 9d9c87264ec49756170cf4649d62776159a632e5
+SHA256: 20e7390dc703e4e17d3b7106e1bb4cddb567b5f95f9c5ec69d035ce8eebeb839
+Section: System
+Description: a simple library for fetching weather information
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/packages/libcsweather/depiction/
+Name: libCSWeather
+
 Package: com.creaturecoding.priorityhub
 Version: 2.0.1a-2+debug
 Architecture: iphoneos-arm
