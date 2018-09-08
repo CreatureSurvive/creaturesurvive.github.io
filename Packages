@@ -1603,18 +1603,18 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
 Name: shuffle
 
 Package: com.creaturecoding.shuffle
-Version: 0.8.0b-1+debug
+Version: 0.8.0b
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 612
+Installed-Size: 472
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/com.creaturecoding.shuffle_0.8.0b-1+debug_iphoneos-arm.deb
-Size: 115346
-MD5sum: 64ca703d258a38e66e1e4f5cde47f830
-SHA1: d0a495a80ef6fa4c05109f0fad9cdb982ba1c060
-SHA256: fb570ddb4eb3fc658806509fbf5739bca4a4d34d06261a10081efd7ec8e38b33
+Filename: ./debs/com.creaturecoding.shuffle_0.8.0b_iphoneos-arm.deb
+Size: 90978
+MD5sum: 1d1c28d18a3073ccaa3014b235944ebf
+SHA1: 36c65c53bf3c06dc75f55378ec509cc6e34bfd77
+SHA256: bbea0d69707d96d51559d8a49937b097e91af6292d4eb2912aebc55f69da7d8f
 Section: Tweaks
 Description: Mix up your preferences
 Author: CreatureSurvive <support@creaturecoding.com>
