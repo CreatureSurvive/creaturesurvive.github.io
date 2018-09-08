@@ -1132,6 +1132,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
 Name: libCSPreferences
 
+Package: com.creaturecoding.libcspreferences
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1876
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_1.0.1_iphoneos-arm.deb
+Size: 343020
+MD5sum: 1cea2598b88cf36aa6bbe549149dd084
+SHA1: 05c6dfe7cec19f5b69c6267197aa41e66e661027
+SHA256: 32e0763d58869b65aaf87833d8e2de9ed99cbe955b47ec334d81266e3d5819bf
+Section: System
+Description: An awesome Preference Library!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+Name: libCSPreferences
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
@@ -1578,6 +1596,25 @@ Size: 51306
 MD5sum: 261cbb7a71a0fd8b379bfca902b29e8c
 SHA1: f21950dbdf30ee0ec5a5e15e9734c14325839727
 SHA256: fe16d5df58a9a57297a3e722879c9c1062e244d47aa8352f23c9c9af02a10bba
+Section: Tweaks
+Description: Mix up your preferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
+Name: shuffle
+
+Package: com.creaturecoding.shuffle
+Version: 0.8.0b-1+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 612
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_0.8.0b-1+debug_iphoneos-arm.deb
+Size: 115346
+MD5sum: 64ca703d258a38e66e1e4f5cde47f830
+SHA1: d0a495a80ef6fa4c05109f0fad9cdb982ba1c060
+SHA256: fb570ddb4eb3fc658806509fbf5739bca4a4d34d06261a10081efd7ec8e38b33
 Section: Tweaks
 Description: Mix up your preferences
 Author: CreatureSurvive <support@creaturecoding.com>
