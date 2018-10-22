@@ -19,10 +19,10 @@ echo compressing Packages
 bzip2 -fks Packages
 
 #git
-git add .
+#git add .
 
-msg="rebuilding Packages"
-if [$# -eq 1]
-	then msg="$1"
-fi
-git commit -m "$msg"
+#msg="rebuilding Packages"
+#if [$# -eq 1]
+#	then msg="$1"
+#fi
+#git commit -m "$msg"
