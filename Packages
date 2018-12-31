@@ -1736,6 +1736,21 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcscolorpicker/index.html
 
 Package: com.creaturesurvive.libcscolorpicker
+Version: 0.7.9
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.7.9_iphoneos-arm.deb
+Size: 67712
+Installed-Size: 408
+MD5sum: 4baf09f1449f82634282ac0a986e6977
+Description: A minimal color picker library for developers
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcscolorpicker/depiction/
+
+Package: com.creaturesurvive.libcscolorpicker
 Version: 0.7.7
 Section: System
 Maintainer: CreatureSurvive <support@creaturecoding.com>
