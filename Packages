@@ -710,6 +710,21 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
 
 Package: com.creaturecoding.libcspreferences
+Version: 1.0.6
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: preferenceloader, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.creaturecoding.libcspreferences_1.0.6_iphoneos-arm.deb
+Size: 328980
+Installed-Size: 1860
+MD5sum: a848b453b964db4b3788ec46f71c629e
+Description: A Preference Library that doesnt suck!
+Name: libCSPreferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+
+Package: com.creaturecoding.libcspreferences
 Version: 0.8.0+debug
 Section: System
 Maintainer: CreatureSurvive <support@creaturecoding.com>
