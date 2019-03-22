@@ -11,35 +11,35 @@ bzip2 -fks Packages
 
 #build debs
 echo building debs
-# dpkg-deb --bZlzma Projects/<projectname> <output folder>
-# dpkg-deb -bZlzma $TWEAKS/motuumls/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/fastdel/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/flatfields/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/intelligentpower/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/nodropsheet/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/predictionstickaround/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/sera/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/libCSWeather/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/foresight/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/switcherRadii/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/alwaysPlaying/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/selectivecontrols/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/cscolorpicker/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/libcspreferences/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/pulltoclear/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/Consolidation/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/reachalert/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/copyvideourl/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/attibutionless/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/ToothModule/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/switcherRadiiXI/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/stretcher/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/shuffle/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/ebullience/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/simmerdown/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/crux/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/covert/.theos/_ debs
-# dpkg-deb -bZlzma $TWEAKS/bubbles/.theos/_ debs
+# dpkg-deb -b Projects/<projectname> <output folder>
+# dpkg-deb -b /Volumes/data/Projects/Git/motuumls/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/fastdel/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/flatfields/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/intelligentpower/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/nodropsheet/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/predictionstickaround/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/sera/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/libCSWeather/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/foresight/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/switcherRadii/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/alwaysPlaying/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/selectivecontrols/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/libCSColorPicker/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/libcspreferences/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/pulltoclear/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/Consolidation/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/reachalert/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/copyvideourl/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/attibutionless/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/ToothModule/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/switcherRadiiXI/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/stretcher/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/shuffle/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/ebullience/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/simmerdown/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/crux/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/covert/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/bubbles/.theos/_ debs
 
 #packages
 echo building Packages
