@@ -25,7 +25,7 @@ echo building debs
 # dpkg-deb -b /Volumes/data/Projects/Git/alwaysPlaying/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/selectivecontrols/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/libCSColorPicker/.theos/_ debs
-# dpkg-deb -b /Volumes/data/Projects/Git/libcspreferences/.theos/_ debs
+# dpkg-deb -b /Volumes/data/Projects/Git/libCSPreferences/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/pulltoclear/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/Consolidation/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/reachalert/.theos/_ debs
