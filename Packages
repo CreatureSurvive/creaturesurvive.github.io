@@ -1226,6 +1226,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
 Name: libCSPreferences
 
+Package: com.creaturecoding.libcspreferences
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2532
+Depends: preferenceloader
+Filename: ./debs/com.creaturecoding.libcspreferences_1.0.9_iphoneos-arm.deb
+Size: 420004
+MD5sum: 79647816868bb75b07172240959c51a7
+SHA1: 3376b98e4485b9009a20b7e3d6b4bbf7d8c99041
+SHA256: 110d38fac2a15172e143249e18303535cd6eb336b0178b47a7de344c2053ce5d
+Section: System
+Description: A Preference Library that doesn't suck!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+Name: libCSPreferences
+
 Package: com.creaturecoding.libcsweather
 Version: 0.1.3b
 Architecture: iphoneos-arm
@@ -2105,6 +2123,22 @@ Size: 66508
 MD5sum: f4c088d278741d21ecfd6f8afcc82fa1
 SHA1: 64d53f99fc8f943bb9c1c0deb71ed9a15f12d59e
 SHA256: c2bde5d0cdee23795b13c1523439171440478e90587ac33bdaed90bfece48983
+Section: System
+Description: A minimal color picker library for developers
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcscolorpicker/depiction/
+Name: libCSColorPicker
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 0.8.2
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 548
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.8.2_iphoneos-arm.deb
+Size: 76872
+MD5sum: 33a38edb0947693f5133a69adffc9a82
+SHA1: 7fb265baad0efbbd9d2706d886f2c65f4ede915f
+SHA256: 1ccebcb876adfa4883ef306c157d7c40de04689418977ece851e33830e686080
 Section: System
 Description: A minimal color picker library for developers
 Author: CreatureSurvive <support@creaturecoding.com>

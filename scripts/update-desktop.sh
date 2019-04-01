@@ -6,8 +6,8 @@
 #rm -r Packages.bz2
 
 #packages
-dpkg-scanpackages -m ./debs > Packages
-bzip2 -fks Packages
+# dpkg-scanpackages -m ./debs > Packages
+# bzip2 -fks Packages
 
 #build debs
 echo building debs
