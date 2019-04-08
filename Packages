@@ -346,6 +346,28 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
 Dev: CreatureSurvive
 Name: bubbles
 
+Package: com.creaturecoding.bubbles
+Version: 0.4.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 672
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Filename: ./debs/com.creaturecoding.bubbles_0.4.0_iphoneos-arm.deb
+Size: 111896
+MD5sum: 8f50858f0b4ae43a5cc30ef34c8ee435
+SHA1: 729581a16562b3d100846659bf0fb8bd46e33920
+SHA256: 76f052c3a6403918c1907971c94a2533317f3710173f3b21862dedb740b75864
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Make your Messages pop!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/bubbles/depiction/
+Dev: CreatureSurvive
+Name: bubbles
+
 Package: com.creaturecoding.consolidation
 Version: 1.0alpha1-5+debug
 Architecture: iphoneos-arm
@@ -567,6 +589,26 @@ Size: 7700
 MD5sum: 51a7263dcbcb76bc8c5ded40e05b4ca0
 SHA1: 623964591215e554ac8fcc82c3334e1bc2eb7d2a
 SHA256: abb8da31fd547b8442a0e55c7bc05c0758f23a4bfcbbc89d182d0ed1d91aa7af
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Hide & Mute conversations in Messages app.
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/covert/depiction/
+Dev: CreatureSurvive
+Name: covert
+
+Package: com.creaturecoding.covert
+Version: 0.9
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.creaturecoding.covert_0.9_iphoneos-arm.deb
+Size: 11112
+MD5sum: e8a49dc3930eddb414be0f725f0a0434
+SHA1: add7ca4522acea7ce809194d5eeaa5e1d61df0a7
+SHA256: b6df6fd3ea480cbb2c56d662c7e2a90e666f7bfa31d5e886e96271de563272ca
 Section: Tweaks
 Priority: optional
 Homepage: https://creaturecoding.com/
@@ -1237,6 +1279,24 @@ Size: 420004
 MD5sum: 79647816868bb75b07172240959c51a7
 SHA1: 3376b98e4485b9009a20b7e3d6b4bbf7d8c99041
 SHA256: 110d38fac2a15172e143249e18303535cd6eb336b0178b47a7de344c2053ce5d
+Section: System
+Description: A Preference Library that doesn't suck!
+Tag: role::developer
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcspreferences/depiction/
+Name: libCSPreferences
+
+Package: com.creaturecoding.libcspreferences
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2536
+Depends: preferenceloader
+Filename: ./debs/com.creaturecoding.libcspreferences_1.1.0_iphoneos-arm.deb
+Size: 432504
+MD5sum: a0509028c5e3335ee3b526e0f35a185c
+SHA1: 6edd13be56ef6bd12fb46da2281fcdf17dc064df
+SHA256: eb242b82418720d3e17e28d3f8399fabb6950cc039a46dd976b1cd4fb81bf81a
 Section: System
 Description: A Preference Library that doesn't suck!
 Tag: role::developer
@@ -2139,6 +2199,22 @@ Size: 76872
 MD5sum: 33a38edb0947693f5133a69adffc9a82
 SHA1: 7fb265baad0efbbd9d2706d886f2c65f4ede915f
 SHA256: 1ccebcb876adfa4883ef306c157d7c40de04689418977ece851e33830e686080
+Section: System
+Description: A minimal color picker library for developers
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcscolorpicker/depiction/
+Name: libCSColorPicker
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 0.9.1
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 556
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.9.1_iphoneos-arm.deb
+Size: 84808
+MD5sum: fe126227a128bf0595e15ab5f91d316b
+SHA1: a1dadd56193d6c920f78690bb1a42a874476432c
+SHA256: 6cc87a87ae099d9235adfed4509f46fb6492f210fbf0d0a8b287501030d1873b
 Section: System
 Description: A minimal color picker library for developers
 Author: CreatureSurvive <support@creaturecoding.com>

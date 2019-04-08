@@ -24,8 +24,8 @@ echo building debs
 # dpkg-deb -b /Volumes/data/Projects/Git/switcherRadii/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/alwaysPlaying/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/selectivecontrols/.theos/_ debs
-# dpkg-deb -b /Volumes/data/Projects/Git/libCSColorPicker/.theos/_ debs
-# dpkg-deb -b /Volumes/data/Projects/Git/libCSPreferences/.theos/_ debs
+dpkg-deb -b /Volumes/data/Projects/Git/libCSColorPicker/.theos/_ debs
+dpkg-deb -b /Volumes/data/Projects/Git/libCSPreferences/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/pulltoclear/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/Consolidation/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/reachalert/.theos/_ debs
@@ -38,8 +38,8 @@ echo building debs
 # dpkg-deb -b /Volumes/data/Projects/Git/ebullience/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/simmerdown/.theos/_ debs
 # dpkg-deb -b /Volumes/data/Projects/Git/crux/.theos/_ debs
-# dpkg-deb -b /Volumes/data/Projects/Git/covert/.theos/_ debs
-# dpkg-deb -b /Volumes/data/Projects/Git/bubbles/.theos/_ debs
+dpkg-deb -b /Volumes/data/Projects/Git/covert/.theos/_ debs
+dpkg-deb -b /Volumes/data/Projects/Git/bubbles/.theos/_ debs
 
 #packages
 echo building Packages
