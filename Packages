@@ -618,6 +618,26 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/covert/depiction/
 Dev: CreatureSurvive
 Name: covert
 
+Package: com.creaturecoding.covert
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.creaturecoding.covert_1.0_iphoneos-arm.deb
+Size: 16756
+MD5sum: e8494aa619bbc55fbf13ab51ba6b41d2
+SHA1: 9d29f39d8f4c7185006a72e51f5b126f5093cfeb
+SHA256: 0e0c4d3c3cc9a18b646ad25e04e3bca76362d2e1fc664c1f86ab9c77797124b5
+Section: Tweaks
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Hide & Mute conversations in Messages app.
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/covert/depiction/
+Dev: CreatureSurvive
+Name: covert
+
 Package: com.creaturecoding.crux
 Version: 1.0.0
 Architecture: iphoneos-arm
