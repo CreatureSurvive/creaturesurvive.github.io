@@ -32,6 +32,24 @@ Author: CreatureSurvive
 Depiction: https://creaturesurvive.github.io/repo/cydia/ebullience/depiction/
 Name: ebullience
 
+Package: com.creaturecoding.addrepo.meta
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 72
+Depends: donotinstallme
+Filename: ./debs/com.creaturecoding.addrepo.meta_1.0.0-1+debug_iphoneos-arm.deb
+Size: 1692
+MD5sum: 55665094e4f15568b0fefa4650cf75c0
+SHA1: afec15e1f630f0492119a429cd73ba33f485631c
+SHA256: e2ed78db6af8febf0439ef5f76fe876f055a0a0dd28159d954a62d1874d33c22
+Section: Tweaks
+Description: Add My New Repo For Updates
+    I am now updating all my projects on https://creaturecoding.com/repo/
+    please add this new repo to ensure you have the latest version of my tweaks
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: RepoMoved
+
 Package: com.creaturecoding.alwaysplaying
 Version: 0.0.7
 Architecture: iphoneos-arm
