@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 176
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecodiing.ebullience_0.5.2b_iphoneos-arm.deb
+Filename: debs/com.creaturecodiing.ebullience_0.5.2b_iphoneos-arm.deb
 Size: 14576
 MD5sum: 53517226fa5d9ab344d1ce5f2a6abea2
 SHA1: 78176dcb1d6785ad38a80475f2c830762bbd7ec1
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 176
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecodiing.ebullience_1.0.1b_iphoneos-arm.deb
+Filename: debs/com.creaturecodiing.ebullience_1.0.1b_iphoneos-arm.deb
 Size: 14608
 MD5sum: dda9281a026dc1fa7942451deab1a086
 SHA1: d14b74122c3242c4faf9a48f06f247d64e369577
@@ -38,7 +38,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: donotinstallme
-Filename: ./debs/com.creaturecoding.addrepo.meta_1.0.0-1+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.addrepo.meta_1.0.0-1+debug_iphoneos-arm.deb
 Size: 1692
 MD5sum: 55665094e4f15568b0fefa4650cf75c0
 SHA1: afec15e1f630f0492119a429cd73ba33f485631c
@@ -56,7 +56,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.alwaysplaying_0.0.7_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.alwaysplaying_0.0.7_iphoneos-arm.deb
 Size: 7926
 MD5sum: 0de842b9f111b3a6ef3ac43fcb05a4ef
 SHA1: e438164f6db7222a71da53183f57078f86f8a3db
@@ -72,7 +72,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.alwaysplaying_0.1.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.alwaysplaying_0.1.0_iphoneos-arm.deb
 Size: 9056
 MD5sum: 9655476b396b86300bff3ce197975b30
 SHA1: f1f7fbd605e42e4ee4a888639876067c6f630c23
@@ -89,7 +89,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.attributionless_1.0.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.attributionless_1.0.0_iphoneos-arm.deb
 Size: 2764
 MD5sum: 174a8af12d1c497ae709480693453d7b
 SHA1: 0a7cce2280c17582b8879c3552c9eca1ee2cf4ea
@@ -105,7 +105,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.attributionless_1.0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.attributionless_1.0.1_iphoneos-arm.deb
 Size: 2812
 MD5sum: 02f4775d2c8323bcbc89de7d499ff9ee
 SHA1: 141a6c2a2698617b2064fad750ac03c582c68da6
@@ -122,7 +122,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 272
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.1.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.1.0b_iphoneos-arm.deb
 Size: 42762
 MD5sum: 1f9312f6341e0e61eceaefbc5e682738
 SHA1: 5a5b96ae8de2cf450b9819aff50713f17ec00736
@@ -142,7 +142,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 288
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.1.4b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.1.4b_iphoneos-arm.deb
 Size: 43932
 MD5sum: 218c5a72ccfde4238bba532695e804a9
 SHA1: fa9613de21f205285e202d911c5873c2ecf046d2
@@ -162,7 +162,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 308
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.1.6b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.1.6b_iphoneos-arm.deb
 Size: 47484
 MD5sum: 4ce38646d75f7f7de1319b7f0252e19e
 SHA1: e966b5c50bf338aa912526e31b786b31c6cf0e47
@@ -182,7 +182,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 312
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.1.7b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.1.7b_iphoneos-arm.deb
 Size: 47878
 MD5sum: 3672e9b71d2939c7df1335de1323ac6c
 SHA1: 2ce73997edfdfcfc6e7733804f62177fee4a14f9
@@ -202,7 +202,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 340
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.1.9b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.1.9b_iphoneos-arm.deb
 Size: 49800
 MD5sum: 4b2d7b853082a388d8881c680d00f8dc
 SHA1: 098ccba0c1c5866f7d93dcb2003f45eea29d873e
@@ -222,7 +222,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 356
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.2.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.2.0b_iphoneos-arm.deb
 Size: 53450
 MD5sum: e9c1c0ff5bb09da7e35b3488adf5654d
 SHA1: fa3b0c93ceacca5e617cca3b17be611f2a7093a5
@@ -242,7 +242,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 376
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.2.2b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.2.2b_iphoneos-arm.deb
 Size: 58754
 MD5sum: a9cfd9466347038d7c9d121262f7ae0a
 SHA1: e7692eb31d915dfe8c07cf08a30f5fe3efa29783
@@ -262,7 +262,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 416
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.creaturecoding.bubbles_0.2.4b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.2.4b_iphoneos-arm.deb
 Size: 61984
 MD5sum: 02017adee31ed237b5fdec3b7db700a9
 SHA1: 90d729d42efeb3b6480607db0f06a4949c81bd3a
@@ -284,7 +284,7 @@ Installed-Size: 436
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
 Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
-Filename: ./debs/com.creaturecoding.bubbles_0.2.8b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.2.8b_iphoneos-arm.deb
 Size: 65514
 MD5sum: 6abf9e7199d05ff291a769fb1bca3150
 SHA1: 55a85acb50ac852f21eec59c3c4b8a2bc1622944
@@ -306,7 +306,7 @@ Installed-Size: 436
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
 Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
-Filename: ./debs/com.creaturecoding.bubbles_0.2.9b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.2.9b_iphoneos-arm.deb
 Size: 65740
 MD5sum: e5b65a23711da98ce4e47d56659cc4ff
 SHA1: 9cb19bb802cb4d3d71855997df7b1ac50bda6655
@@ -328,7 +328,7 @@ Installed-Size: 436
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
 Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
-Filename: ./debs/com.creaturecoding.bubbles_0.3.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.3.0b_iphoneos-arm.deb
 Size: 65674
 MD5sum: 8f601af2b5a74e0d8bdcfa09decd24f4
 SHA1: 78cbf9b002d8fc008a7ecbd762d49d25f6de0b76
@@ -350,7 +350,7 @@ Installed-Size: 452
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
 Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
-Filename: ./debs/com.creaturecoding.bubbles_0.3.1b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.3.1b_iphoneos-arm.deb
 Size: 62184
 MD5sum: 717a36f4870b418096c9f80d368a61ab
 SHA1: eac54755e84be0d48fa790d08cd250ad4619b75e
@@ -372,7 +372,7 @@ Installed-Size: 672
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
 Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
-Filename: ./debs/com.creaturecoding.bubbles_0.4.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.bubbles_0.4.0_iphoneos-arm.deb
 Size: 111896
 MD5sum: 8f50858f0b4ae43a5cc30ef34c8ee435
 SHA1: 729581a16562b3d100846659bf0fb8bd46e33920
@@ -393,7 +393,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 584
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences
 Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
-Filename: ./debs/com.creaturecoding.consolidation_1.0alpha1-5+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.consolidation_1.0alpha1-5+debug_iphoneos-arm.deb
 Size: 57458
 MD5sum: 9727817551625f1a9e448af19191eac5
 SHA1: 227bd58d0c87a6fa7ec157d9938d85bb8674fc87
@@ -410,7 +410,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 736
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
-Filename: ./debs/com.creaturecoding.consolidation_1.0alpha2-1+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.consolidation_1.0alpha2-1+debug_iphoneos-arm.deb
 Size: 88414
 MD5sum: 98e8991668a4c618f18875531ea05762
 SHA1: 64c7f34c27c68c5925d19778124870f01674525c
@@ -427,7 +427,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 748
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
-Filename: ./debs/com.creaturecoding.consolidation_1.0alpha3-1+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.consolidation_1.0alpha3-1+debug_iphoneos-arm.deb
 Size: 87956
 MD5sum: c5ebdac0fb6cee167d67e4b5dccbe157
 SHA1: c817a9e85d7e4df45c68f4d7fbdacea3dd4db634
@@ -444,7 +444,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 760
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
-Filename: ./debs/com.creaturecoding.consolidation_1.0alpha4-1+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.consolidation_1.0alpha4-1+debug_iphoneos-arm.deb
 Size: 92906
 MD5sum: 9cf0b93534bcf796e72063be2e748806
 SHA1: 9006106e40261ca329edea45bb026e510f4f60bc
@@ -462,7 +462,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 920
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub
-Filename: ./debs/com.creaturecoding.consolidation_1.0alpha5-2+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.consolidation_1.0alpha5-2+debug_iphoneos-arm.deb
 Size: 117978
 MD5sum: 6bb646bcc0d174a7a07b88d98434c18a
 SHA1: 0333ba3cdfa2d7c1652423de12fd7052f7aabef0
@@ -480,7 +480,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 932
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub, com.gilshahar7.taptoopen
-Filename: ./debs/com.creaturecoding.consolidation_1.0alpha6-2+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.consolidation_1.0alpha6-2+debug_iphoneos-arm.deb
 Size: 118536
 MD5sum: 9e2274604732afd62089b89a905697fa
 SHA1: 9b869a3a7e993a79252dbe57377909131448457f
@@ -498,7 +498,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 940
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
 Replaces: me.thomasfinch.priorityhub, com.creaturecoding.priorityhub, com.gilshahar7.taptoopen, net.tateu.perpetual10lite
-Filename: ./debs/com.creaturecoding.consolidation_1.0alpha7-2+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.consolidation_1.0alpha7-2+debug_iphoneos-arm.deb
 Size: 123272
 MD5sum: ecd07439e979ae5c4990232cb1e92cb0
 SHA1: 8d376ea9ea18273f0ea566dd90cb07fc7fe7f2c2
@@ -515,7 +515,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureCoding <support@creaturecoding.com>
 Installed-Size: 236
 Depends: com.opa334.ccsupport, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.control-center.toothmodule_1.0.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.control-center.toothmodule_1.0.0b_iphoneos-arm.deb
 Size: 32202
 MD5sum: 60e14a1617181402aac602f5417526cf
 SHA1: b06d6171562619bade3aebc34f22217637d37b0c
@@ -532,7 +532,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureCoding <support@creaturecoding.com>
 Installed-Size: 236
 Depends: com.ioscreatix.silo, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.control-center.toothmodule_1.0.1b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.control-center.toothmodule_1.0.1b_iphoneos-arm.deb
 Size: 32218
 MD5sum: 21ee67a5c3a815fd994dba147ca57502
 SHA1: 89b75e482e848a06a817f15ef19cd8d955a16eae
@@ -549,7 +549,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.copyvideourl_0.0.1-7+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.copyvideourl_0.0.1-7+debug_iphoneos-arm.deb
 Size: 4700
 MD5sum: 825e84d8aed0a3f308b83f4a83c666c5
 SHA1: 38c2b86d8ef8d00781eccfbd7d6d8019b5616689
@@ -565,7 +565,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.copyvideourl_0.1.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.copyvideourl_0.1.0_iphoneos-arm.deb
 Size: 3920
 MD5sum: 72f2558ee6ab9c7cfbab6ce16838cf1d
 SHA1: f6b3f644546f6788986d565cf34fe27271253a4c
@@ -582,7 +582,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/com.creaturecoding.covert_0.6_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.covert_0.6_iphoneos-arm.deb
 Size: 5476
 MD5sum: c92d18f6290853fe009a63fe0543b098
 SHA1: 355ba419e1869c300980510d93f6b6dd5ce2b065
@@ -602,7 +602,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/com.creaturecoding.covert_0.7_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.covert_0.7_iphoneos-arm.deb
 Size: 7700
 MD5sum: 51a7263dcbcb76bc8c5ded40e05b4ca0
 SHA1: 623964591215e554ac8fcc82c3334e1bc2eb7d2a
@@ -622,7 +622,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/com.creaturecoding.covert_0.9_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.covert_0.9_iphoneos-arm.deb
 Size: 11112
 MD5sum: e8a49dc3930eddb414be0f725f0a0434
 SHA1: add7ca4522acea7ce809194d5eeaa5e1d61df0a7
@@ -642,7 +642,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/com.creaturecoding.covert_1.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.covert_1.0_iphoneos-arm.deb
 Size: 16756
 MD5sum: e8494aa619bbc55fbf13ab51ba6b41d2
 SHA1: 9d29f39d8f4c7185006a72e51f5b126f5093cfeb
@@ -656,33 +656,13 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/covert/depiction/
 Dev: CreatureSurvive
 Name: covert
 
-Package: com.creaturecoding.crux
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 68
-Depends: firmware (>= 9.0)
-Filename: ./debs/com.creaturecoding.crux_1.0.0_iphoneos-arm.deb
-Size: 2784
-MD5sum: f981050a79303069332bc1a3f881ceed
-SHA1: fa939c99522a475e51486be13e3cf395c00db299
-SHA256: e08f8043f2e67df8a1e0bd1fb0ed7e052e40d29179859688aefec76412add126
-Section: System
-Priority: optional
-Homepage: https://creaturecoding.com/
-Description: run any command as root. `crux /usr/bin/dpkg install com.creaturcoding.crux`
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturesurvive.github.io/repo/cydia/crux/depiction/
-Dev: CreatureSurvive
-Name: crux
-
 Package: com.creaturecoding.cyground
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.cyground_1.0.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.cyground_1.0.0_iphoneos-arm.deb
 Size: 3956
 MD5sum: f20e0eda8829df6e11d8e9b8a777ed2f
 SHA1: ee50617d4083278d98cf697db688938e29997d47
@@ -702,7 +682,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 400
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.cyground_1.2.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.cyground_1.2.0_iphoneos-arm.deb
 Size: 5090
 MD5sum: 1c7f31d4b1bfeb0b5e31a347f6618643
 SHA1: 390e6b715c14162d3b102c8cbe8aceafa5f0aac2
@@ -722,7 +702,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 384
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.fastdel_0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.fastdel_0.1_iphoneos-arm.deb
 Size: 47668
 MD5sum: 89cc0278250098a6afa5142ebca1f21a
 SHA1: 1eaa5926bfb1ecda94dfb451475c81268ce9c987
@@ -739,7 +719,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 460
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.fastdel_0.2_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.fastdel_0.2_iphoneos-arm.deb
 Size: 50856
 MD5sum: 70fec8a160d957d79da21c4b9ae65a02
 SHA1: fb61e62d9028b3d74c848ca771bd719e40a3ddc8
@@ -756,7 +736,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 440
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.fastdel_0.3_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.fastdel_0.3_iphoneos-arm.deb
 Size: 42790
 MD5sum: c13b9cdaed963bbd3d798c50b27b1acd
 SHA1: 4d7c9a1b128c6d63d31c8d399677a260b9efdc2d
@@ -773,7 +753,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.findOnPage_0.0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.findOnPage_0.0.1_iphoneos-arm.deb
 Size: 4904
 MD5sum: 503aea23dc804c7093b442414eb30c47
 SHA1: bc232d76d2854645e9be85f203f2b2b98d36ab55
@@ -790,7 +770,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 204
 Depends: mobilesubstrate, com.creaturecoding.libcsweather
-Filename: ./debs/com.creaturecoding.foresight_1.0.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.foresight_1.0.0_iphoneos-arm.deb
 Size: 8928
 MD5sum: 857c8cb0a3111c9326538f74e889c0db
 SHA1: e07391371e85604fd0db320fc1a4c47aecc2a42f
@@ -808,7 +788,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 204
 Depends: mobilesubstrate, com.creaturecoding.libcsweather
-Filename: ./debs/com.creaturecoding.foresight_1.0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.foresight_1.0.1_iphoneos-arm.deb
 Size: 8648
 MD5sum: 666afee87221ce2a6802f7e0a6020305
 SHA1: 7c0ca53132419aa7241f4b7ee01e69980d06eaeb
@@ -826,7 +806,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 200
 Depends: mobilesubstrate, com.creaturecoding.libcsweather
-Filename: ./debs/com.creaturecoding.foresight_1.0.3_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.foresight_1.0.3_iphoneos-arm.deb
 Size: 7610
 MD5sum: 77f97dccb71a3f5dda82441a3b29b35f
 SHA1: 4356f194278e655755329373b19a7a69786440e3
@@ -844,7 +824,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1052
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.7.3_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.7.3_iphoneos-arm.deb
 Size: 199730
 MD5sum: e67e7d460d8d8c5d26f8c74a64e86d4e
 SHA1: 875eedb419c98b5150d2c9fc6706269a4fa539c3
@@ -862,7 +842,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1052
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.7.5_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.7.5_iphoneos-arm.deb
 Size: 200178
 MD5sum: 43efb7720c6642577f728a2a6f4eca29
 SHA1: c7e58c76770c3785c384a342a9858d8804c521b2
@@ -880,7 +860,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1052
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.7.8_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.7.8_iphoneos-arm.deb
 Size: 199680
 MD5sum: 54c00a379478ef1c52c5d48df4cac535
 SHA1: f8b6cb6ab5f224d8d681910fd3cd550675f104a2
@@ -898,7 +878,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1056
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.7.9_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.7.9_iphoneos-arm.deb
 Size: 200028
 MD5sum: 521d2ad7164e5c42c9a8bdd95fd5a521
 SHA1: 246f0d00a1898a6aa5e682d8951dbf10779cfc6e
@@ -916,7 +896,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1596
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.8.0+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.8.0+debug_iphoneos-arm.deb
 Size: 255898
 MD5sum: cdbfa58a77d851ba45ba3fbb72373f54
 SHA1: 6771ae38f092c32f6344d34dde104aeaa3aa9504
@@ -934,7 +914,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1172
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.0_iphoneos-arm.deb
 Size: 219626
 MD5sum: cb23e08d57bed40deb30799b24dfcb1e
 SHA1: 5394dbfee347de96bb0d665e8af3e24cfdd24534
@@ -952,7 +932,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1192
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.1_iphoneos-arm.deb
 Size: 227542
 MD5sum: b65574278923481b06b50eb9c0f3d531
 SHA1: ff08a5bd00b8516ccf5303f3b2f79f72d53befb9
@@ -970,7 +950,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1192
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.2_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.2_iphoneos-arm.deb
 Size: 229594
 MD5sum: d6de3b3bb0d2803cc2abdb6c06bfe06f
 SHA1: ada05b0305b49976e92393c536754411572f4d86
@@ -988,7 +968,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1192
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.3_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.3_iphoneos-arm.deb
 Size: 236882
 MD5sum: 18aa6798a590c64d9c764e9804b441b9
 SHA1: 8589d0f1b3d6f12fd6fce89ac4af22cdd378a3b8
@@ -1006,7 +986,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1196
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.6_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.6_iphoneos-arm.deb
 Size: 242438
 MD5sum: b7be05dd286ed0b51a448c75cb73693a
 SHA1: 9705663a05e777368c1df990cd8e1110cd60454f
@@ -1024,7 +1004,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1228
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.7_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.7_iphoneos-arm.deb
 Size: 242864
 MD5sum: eb5cb18a4fda0a7f32294e337588d3a6
 SHA1: 3a370da585d1c5c4fd82cd20ecef6ffba61cb800
@@ -1042,7 +1022,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1120
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.8_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.8_iphoneos-arm.deb
 Size: 217968
 MD5sum: 86410134c971bd1d102852f47516b407
 SHA1: 2a32afabfb3bef53096668faed3309c8be0f138c
@@ -1060,7 +1040,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1368
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9_iphoneos-arm.deb
 Size: 221650
 MD5sum: 8599e9f9da395c85db2714839f7a8618
 SHA1: 9e8553a5ce54c262d4bb6a1eae5e8c044f65fa61
@@ -1078,7 +1058,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1368
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.1_iphoneos-arm.deb
 Size: 221806
 MD5sum: 2e4ac1508e4d53c1ddc1bfb829b6194b
 SHA1: 7ef0977a03da9e793500714ea40f3e8d8d48e60e
@@ -1096,7 +1076,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1316
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.2_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.2_iphoneos-arm.deb
 Size: 217626
 MD5sum: c5d7dfd4ce1073700d89469a68c7b8c4
 SHA1: 595ae0452d41922b1ef14423d3eff52b41e19058
@@ -1114,7 +1094,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1572
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.4_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.4_iphoneos-arm.deb
 Size: 250346
 MD5sum: 991cbec634985b591af6273b884248fe
 SHA1: aa02d4762f94fa1c4d6a786e0c80bfff06ac77e8
@@ -1132,7 +1112,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1604
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.5_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.5_iphoneos-arm.deb
 Size: 254494
 MD5sum: 6a8f1cd4845df42b274a9517954b0d15
 SHA1: eaafa46e42c18acc1abd9807c03e97206b9113ee
@@ -1150,7 +1130,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1620
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.6_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.6_iphoneos-arm.deb
 Size: 257014
 MD5sum: 3942b9ba117d43462340a5a57f50f4f4
 SHA1: 7c69d362c41dfc7ee2e89ce506dda7bf9f0ef94c
@@ -1168,7 +1148,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1624
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.7_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.7_iphoneos-arm.deb
 Size: 260220
 MD5sum: 19e8444d6efbefc7eaed5035e6fe06a0
 SHA1: 0b1c23a755e1d4def2d316206bf0d23ff24f8f8f
@@ -1186,7 +1166,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1624
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.8_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.8_iphoneos-arm.deb
 Size: 265082
 MD5sum: 01e00c2c31e39d3b784e96f04a88123c
 SHA1: a07b3b77eed6bcf9db2bc28b2105c247473f2be9
@@ -1204,7 +1184,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1624
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.9_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.9_iphoneos-arm.deb
 Size: 266648
 MD5sum: 2fb94e623c03d3774c3957d76497ab55
 SHA1: 3a196c1da9f229b588a4d459c75393ad255323b4
@@ -1222,7 +1202,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1624
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_0.9.9.9-1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.9-1_iphoneos-arm.deb
 Size: 272938
 MD5sum: d8e06e90a941cecb72994c0fa8f19246
 SHA1: fc433e2463d39338e7f9951dde87462b9793b7d2
@@ -1240,7 +1220,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1876
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_1.0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_1.0.1_iphoneos-arm.deb
 Size: 343020
 MD5sum: 1cea2598b88cf36aa6bbe549149dd084
 SHA1: 05c6dfe7cec19f5b69c6267197aa41e66e661027
@@ -1258,7 +1238,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1860
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_1.0.4_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_1.0.4_iphoneos-arm.deb
 Size: 328384
 MD5sum: 7bdd9d84b02014ba6043671cd5be53f6
 SHA1: face529f2d0888389b504f6c1abca74b971386da
@@ -1276,7 +1256,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1860
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_1.0.6_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_1.0.6_iphoneos-arm.deb
 Size: 328980
 MD5sum: a848b453b964db4b3788ec46f71c629e
 SHA1: 88039d531a24863a7ce967b06646986b2445b220
@@ -1294,7 +1274,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1992
 Depends: preferenceloader, mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcspreferences_1.0.8_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_1.0.8_iphoneos-arm.deb
 Size: 352936
 MD5sum: e13eb95f5b28c5ddeee94dc8ce20c367
 SHA1: f87bbb609170045e3f8d1aee47d9045fb8ced9d1
@@ -1312,7 +1292,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2532
 Depends: preferenceloader
-Filename: ./debs/com.creaturecoding.libcspreferences_1.0.9_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_1.0.9_iphoneos-arm.deb
 Size: 420004
 MD5sum: 79647816868bb75b07172240959c51a7
 SHA1: 3376b98e4485b9009a20b7e3d6b4bbf7d8c99041
@@ -1330,7 +1310,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2536
 Depends: preferenceloader
-Filename: ./debs/com.creaturecoding.libcspreferences_1.1.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_1.1.0_iphoneos-arm.deb
 Size: 432504
 MD5sum: a0509028c5e3335ee3b526e0f35a185c
 SHA1: 6edd13be56ef6bd12fb46da2281fcdf17dc064df
@@ -1348,7 +1328,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2536
 Depends: preferenceloader
-Filename: ./debs/com.creaturecoding.libcspreferences_1.1.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcspreferences_1.1.1_iphoneos-arm.deb
 Size: 432644
 MD5sum: 00463046a98a12a057bf77abe16e67e8
 SHA1: 3c4aedc6127a4d41903eee650426ae3ffe9797a4
@@ -1366,7 +1346,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 248
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.1.3b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.1.3b_iphoneos-arm.deb
 Size: 16704
 MD5sum: e3c617d2b41d70d571da573d6467a8ec
 SHA1: da5d358a0fb1ebb4a5538ea9936290cf4170f2da
@@ -1384,7 +1364,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 248
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.1.5b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.1.5b_iphoneos-arm.deb
 Size: 19982
 MD5sum: 45f0812a81b13ee0d8411967e53d90f1
 SHA1: 6655ec40cbfbbc5296c12573d523e4e5c992db8c
@@ -1402,7 +1382,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.4.5b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.4.5b_iphoneos-arm.deb
 Size: 24332
 MD5sum: 3bce63c54f537efd8436668a2b5389f0
 SHA1: a5bf640530d6931d8333a8fbba23ee2b9d183c37
@@ -1420,7 +1400,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.4.7b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.4.7b_iphoneos-arm.deb
 Size: 27392
 MD5sum: 009ca9c6af89afb8d301b4319807f136
 SHA1: 88b858d88d43e245401899dc55df9acdadf49c34
@@ -1438,7 +1418,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 300
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.4.9b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.4.9b_iphoneos-arm.deb
 Size: 29138
 MD5sum: 7afd623839784b4ac0527466dc4c4fef
 SHA1: 7bbff375d1d93285088e2634daba980f1f7b0587
@@ -1456,7 +1436,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 360
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.5.0b+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.5.0b+debug_iphoneos-arm.deb
 Size: 35254
 MD5sum: efe5a61bcfdac09eb4af5a0d8dba1577
 SHA1: 285b0c8664ac6f472ed31f33b19a2eccb2e573f2
@@ -1474,7 +1454,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 300
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.5.1b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.5.1b_iphoneos-arm.deb
 Size: 36596
 MD5sum: 2863b863d5ff7d2cf51ccf1cfd745c42
 SHA1: 06758a225a624d1418a8322d5b44ad611c4c836b
@@ -1492,7 +1472,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 304
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.5.5b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.5.5b_iphoneos-arm.deb
 Size: 40528
 MD5sum: 6d6465c42a2d52cced49bc5ce845a46b
 SHA1: 444ab4aa8e54a163bf0c02ce79008c232f63a7b4
@@ -1510,7 +1490,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 300
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.5.6b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.5.6b_iphoneos-arm.deb
 Size: 38662
 MD5sum: 0574e60fb640e84dbfac13298d54c182
 SHA1: 9d9c87264ec49756170cf4649d62776159a632e5
@@ -1528,7 +1508,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 304
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/com.creaturecoding.libcsweather_0.6.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.libcsweather_0.6.0b_iphoneos-arm.deb
 Size: 32322
 MD5sum: 5b2f4cc2cf3d89d467ab0fbef422e8be
 SHA1: 18acc9214d35cf3c8d13ab8389adb9edf64d6b48
@@ -1546,7 +1526,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: mobilesubstrate, com.creaturecoding.consolidation
-Filename: ./debs/com.creaturecoding.priorityhub_2.0.1a-2+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.priorityhub_2.0.1a-2+debug_iphoneos-arm.deb
 Size: 1610
 MD5sum: a8d9b65b50c2439aface1f8a12069329
 SHA1: 73ee3a007df02e7eae7d3fdc97394e0ec1d94c9a
@@ -1562,7 +1542,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 460
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.creaturecoding.priorityhub_2.0a-1+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.priorityhub_2.0a-1+debug_iphoneos-arm.deb
 Size: 74234
 MD5sum: 3fe9542baa3770faa989582416aa3e30
 SHA1: ea74cb0b2de367df04ab5ba04794fac3f3582214
@@ -1580,7 +1560,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 460
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.creaturecoding.priorityhub_2.0a-2+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.priorityhub_2.0a-2+debug_iphoneos-arm.deb
 Size: 74170
 MD5sum: 1146e055cfd030b824a53848008adc91
 SHA1: 5321aca47f7bee2163c555dd8660f1cc14681144
@@ -1597,7 +1577,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 424
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.pulltoclear_0.2.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.pulltoclear_0.2.1_iphoneos-arm.deb
 Size: 31898
 MD5sum: 3b2795989e90b943e9f3e6314f0cc763
 SHA1: 210185c1811b97047af6b4cd047dc5ced29806f3
@@ -1614,7 +1594,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 424
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.pulltoclear_0.2.2_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.pulltoclear_0.2.2_iphoneos-arm.deb
 Size: 31942
 MD5sum: c7d405826a0f951e5969b3813090d7bf
 SHA1: 4430b5b21d32fedf8bd8ec8df8c39172a58ae2d3
@@ -1631,7 +1611,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 376
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.pulltoclear_0.3.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.pulltoclear_0.3.1_iphoneos-arm.deb
 Size: 25200
 MD5sum: 9e842ba82b8f94b9559bbdb0eec401a0
 SHA1: fd99ebd659b127121d8adc56c586f4bf080118f2
@@ -1648,7 +1628,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.reachalert_0.0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.reachalert_0.0.1_iphoneos-arm.deb
 Size: 15078
 MD5sum: ba76635da61a41a1f234e986f0447f43
 SHA1: e41a791e0915fe40537a3cf2d0c565672376c4bd
@@ -1665,7 +1645,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.reachalert_0.0.3_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.reachalert_0.0.3_iphoneos-arm.deb
 Size: 16856
 MD5sum: 661f3ab92ac78c17b7cb3e784bb68a7e
 SHA1: 8dd22808181c8dbefbd7278086779e5b28a253fb
@@ -1682,7 +1662,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.reachcc_0.5-1+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.reachcc_0.5-1+debug_iphoneos-arm.deb
 Size: 3622
 MD5sum: 31b360a785664014016c1988c35cd4b9
 SHA1: 6965fcf4e28c6cf244288551727541b32112ce01
@@ -1698,7 +1678,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.reachcc_0.5-2+debug_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.reachcc_0.5-2+debug_iphoneos-arm.deb
 Size: 3574
 MD5sum: f90048827be333c5d43d20267e099d1d
 SHA1: bf3e8e34c7f7a8fbaf647144f2046109542515d4
@@ -1714,7 +1694,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.reachcc_1.0.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.reachcc_1.0.0_iphoneos-arm.deb
 Size: 2500
 MD5sum: 1d374591b0421528ecdcb37fd2738cc6
 SHA1: 9e236af3e5734c175c5bd973bd7e813ce4ce5ce3
@@ -1731,7 +1711,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 344
 Depends: mobilesubstrate, applist, preferenceloader
-Filename: ./debs/com.creaturecoding.selectivecontrols_0.0.3_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.selectivecontrols_0.0.3_iphoneos-arm.deb
 Size: 6810
 MD5sum: c71822af34f0d157a49d7e876fba53b8
 SHA1: 4e9a57e555a91d039eaadf998e7066847c45c023
@@ -1749,7 +1729,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 192
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.shuffle_0.5.7b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.shuffle_0.5.7b_iphoneos-arm.deb
 Size: 20570
 MD5sum: 47a380e2934bae27887b9d243b11bf96
 SHA1: 311b691e64c6f281a514b49ab717b421405c0447
@@ -1766,7 +1746,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 236
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.shuffle_0.5.9b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.shuffle_0.5.9b_iphoneos-arm.deb
 Size: 45978
 MD5sum: e680d5926744a529ed83a7d3a3a937cf
 SHA1: 1358eaa4dcee8ab7a559c616215245a88377be46
@@ -1783,7 +1763,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 256
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.shuffle_0.6.4b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.shuffle_0.6.4b_iphoneos-arm.deb
 Size: 50780
 MD5sum: b2fb98dcf3e7dd6c8563a2f30497d927
 SHA1: d804dce4ca7bc06bd1d4bc57a590cdd6f4ef0752
@@ -1800,7 +1780,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 256
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Filename: ./debs/com.creaturecoding.shuffle_0.6.5b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.shuffle_0.6.5b_iphoneos-arm.deb
 Size: 50868
 MD5sum: 2c8c8f6ede5fde8b2fc1eaadee5d0a8e
 SHA1: 730c8c984aded21b2e5dab3f420b23fa8ab1fb44
@@ -1819,7 +1799,7 @@ Installed-Size: 256
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/com.creaturecoding.shuffle_0.6.6b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.shuffle_0.6.6b_iphoneos-arm.deb
 Size: 51306
 MD5sum: 261cbb7a71a0fd8b379bfca902b29e8c
 SHA1: f21950dbdf30ee0ec5a5e15e9734c14325839727
@@ -1838,7 +1818,7 @@ Installed-Size: 472
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/com.creaturecoding.shuffle_0.8.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.shuffle_0.8.0b_iphoneos-arm.deb
 Size: 90978
 MD5sum: 1d1c28d18a3073ccaa3014b235944ebf
 SHA1: 36c65c53bf3c06dc75f55378ec509cc6e34bfd77
@@ -1855,7 +1835,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.simmerdown_1.0.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.simmerdown_1.0.0_iphoneos-arm.deb
 Size: 3522
 MD5sum: cc7b5cadd4b1ebe1f4e1c5f1ff673f29
 SHA1: cb3744ef683a61ba59432cc1bf520a3fcc4997c5
@@ -1872,7 +1852,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.simmerdown_1.0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.simmerdown_1.0.1_iphoneos-arm.deb
 Size: 4406
 MD5sum: 9277110ee94ae6a44f3751f2d2dd61fb
 SHA1: be99b2c23887c8b1aba8fd83d59da0fe8d16ee75
@@ -1889,7 +1869,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.simmerdown_1.3.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.simmerdown_1.3.1_iphoneos-arm.deb
 Size: 5986
 MD5sum: b54f9644d0e3445748ae97ff95e72d2c
 SHA1: 45e14c7388e46ef9daf77bca924cbd766b0e0411
@@ -1906,7 +1886,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.stretcher_0.5.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.stretcher_0.5.0b_iphoneos-arm.deb
 Size: 2096
 MD5sum: c30d6e224ba1e1ef5ae8fd59e53ea0f6
 SHA1: 4961efa34adf5dce65a269f4428bd4288f344172
@@ -1923,7 +1903,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.stretcher_0.6.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.stretcher_0.6.0b_iphoneos-arm.deb
 Size: 2482
 MD5sum: dc00621a92ffccfc8e8b456d1ac8cb12
 SHA1: eb6ebd8b511187c5aa8625a2b1c3394c493b1082
@@ -1940,7 +1920,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.switcherradii_1.0.0_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.switcherradii_1.0.0_iphoneos-arm.deb
 Size: 4180
 MD5sum: d621082876eb62cc8bca795b9a1b082d
 SHA1: f0841e606b63eeed70f549c94b21e8346e05ecaf
@@ -1958,7 +1938,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.switcherradii_1.0.1_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.switcherradii_1.0.1_iphoneos-arm.deb
 Size: 6932
 MD5sum: 47f0f16261d91a014d4f333525793795
 SHA1: fe759b52d0f060ad4514c5eb5946c1b60adbce70
@@ -1976,7 +1956,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.switcherradii_1.0.2_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.switcherradii_1.0.2_iphoneos-arm.deb
 Size: 3024
 MD5sum: abe8960cd227e12eef9fd566d590e7cb
 SHA1: b8c167845310c6e7657fe9fc9d0c0484088ea458
@@ -1994,7 +1974,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.switcherradiixi_1.0.0b_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.switcherradiixi_1.0.0b_iphoneos-arm.deb
 Size: 36580
 MD5sum: 4835cc429f3475ee7c0c03e19148d990
 SHA1: a5a22e96ff486ea067cbff0f07dac9bee641fee8
@@ -2011,7 +1991,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive (support@creaturecoding.com)
 Installed-Size: 72
 Depends: firmware (>= 11.0)
-Filename: ./debs/com.creaturecoding.wtfeclipse_0.4.2_iphoneos-arm.deb
+Filename: debs/com.creaturecoding.wtfeclipse_0.4.2_iphoneos-arm.deb
 Size: 4122
 MD5sum: e7ab666e906db9b4d58e6020d2859021
 SHA1: 5cd760541371fcc51ac3a0a67ebdf3a0558ab4c6
@@ -2031,7 +2011,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.flatfields_0.0.5_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.flatfields_0.0.5_iphoneos-arm.deb
 Size: 3800
 MD5sum: 00e133543de7b6676b315645a594d05b
 SHA1: 4106675508c8f1f4b5487b932b0e5bcce84c3f99
@@ -2048,7 +2028,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.flatfields_0.0.7_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.flatfields_0.0.7_iphoneos-arm.deb
 Size: 3820
 MD5sum: 723b6e59e19a895402f90bf0e0fefea3
 SHA1: e642e903bef978919b0cca6644eb1a07c4dc8511
@@ -2065,7 +2045,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 384
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.intelligentpower_0.0.5_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.intelligentpower_0.0.5_iphoneos-arm.deb
 Size: 43872
 MD5sum: 7fce9809fd342c7a80408ca780c4ac77
 SHA1: 337bcef8d4fb6d9b86b3d0f9a5dfecb14968e341
@@ -2081,7 +2061,7 @@ Version: 0.5.7
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive
 Installed-Size: 388
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.5.7_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.5.7_iphoneos-arm.deb
 Size: 51782
 MD5sum: 3ef838139385fd1bd1789ff01f091216
 SHA1: 78eb5b87d1c6afe2ae699fd6f72e67aee6d79363
@@ -2098,7 +2078,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 388
 Depends: mobilesubstrate, applist, preferenceloader
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.5.9_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.5.9_iphoneos-arm.deb
 Size: 51866
 MD5sum: ca8ef4902ea709fe7828438b72018f4d
 SHA1: db642dd41dc5e4f5f84d69dc4f784792c4f35e98
@@ -2115,7 +2095,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 388
 Depends: mobilesubstrate, applist, preferenceloader
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.6.0_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.6.0_iphoneos-arm.deb
 Size: 54718
 MD5sum: e6e7277e1e21c260b94c6ee08e3de6f9
 SHA1: de4761de4c19359029d96198402f23e291ff7067
@@ -2132,7 +2112,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.7.0_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.7.0_iphoneos-arm.deb
 Size: 65580
 MD5sum: 9261d97926aac216de8d4d768e2ff291
 SHA1: 3437b6723399f288095be32ec9f9f6a672b2f5d5
@@ -2149,7 +2129,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.7.3_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.7.3_iphoneos-arm.deb
 Size: 68146
 MD5sum: 22bbb626887268560af86292b370aaaa
 SHA1: 4d7fa47c2056352d5f0a240407fe359dcf473c0b
@@ -2166,7 +2146,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.7.4_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.7.4_iphoneos-arm.deb
 Size: 68428
 MD5sum: 85bdfd6da4bdbdd72d67636d35a0d1b5
 SHA1: 1652fcd354bc1f84b7c733ae13b2899dea5a4a24
@@ -2183,7 +2163,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.7.5_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.7.5_iphoneos-arm.deb
 Size: 68410
 MD5sum: 891f52674ca23899d5afd9cafdde5207
 SHA1: 99070e5ba8d351915935986f99b290daf4ddf861
@@ -2200,7 +2180,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.7.7_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.7.7_iphoneos-arm.deb
 Size: 67958
 MD5sum: 79cb2ab5db75407926364f0a1e23bf55
 SHA1: df45075caa2fbe0e1ffc2ada0d1cab098fe5bbb5
@@ -2217,7 +2197,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.7.9_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.7.9_iphoneos-arm.deb
 Size: 67712
 MD5sum: 4baf09f1449f82634282ac0a986e6977
 SHA1: 510a1350dae61c7cc0dcd77a05956556b861dd29
@@ -2234,7 +2214,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 408
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.8.1_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.8.1_iphoneos-arm.deb
 Size: 66508
 MD5sum: f4c088d278741d21ecfd6f8afcc82fa1
 SHA1: 64d53f99fc8f943bb9c1c0deb71ed9a15f12d59e
@@ -2250,7 +2230,7 @@ Version: 0.8.2
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 548
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.8.2_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.8.2_iphoneos-arm.deb
 Size: 76872
 MD5sum: 33a38edb0947693f5133a69adffc9a82
 SHA1: 7fb265baad0efbbd9d2706d886f2c65f4ede915f
@@ -2266,7 +2246,7 @@ Version: 0.9.1
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 556
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.9.1_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.9.1_iphoneos-arm.deb
 Size: 84808
 MD5sum: fe126227a128bf0595e15ab5f91d316b
 SHA1: a1dadd56193d6c920f78690bb1a42a874476432c
@@ -2282,7 +2262,7 @@ Version: 0.9.2
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 556
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.9.2_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.9.2_iphoneos-arm.deb
 Size: 84768
 MD5sum: fd1d4dd7fb675f348de5e47af4a26a0c
 SHA1: 7c9d7f7ae75beed612fba59636e1f38f330b1e59
@@ -2298,7 +2278,7 @@ Version: 0.9.3
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 556
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_0.9.3_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.9.3_iphoneos-arm.deb
 Size: 85336
 MD5sum: 9a5bd9f6444c162cd2508b95174d1141
 SHA1: 45bde94cff657c7506f1f5d3429a3072e50658ec
@@ -2314,7 +2294,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 492
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm.deb
 Size: 83964
 MD5sum: c821ae6c4cea9ffd28fa0be98c40bab4
 SHA1: 0f21712ef24a1a83a596643b25c0e20249e9fa2c
@@ -2331,7 +2311,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 500
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.motuumls_0.0.8_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_0.0.8_iphoneos-arm.deb
 Size: 60574
 MD5sum: 499b7805c0bb58b21ce5dd07d791fe22
 SHA1: 128faf8659f7d9cc2da3a6bbdecb76b5b03cc8c8
@@ -2349,7 +2329,7 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 552
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.motuumls_0.1.0_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_0.1.0_iphoneos-arm.deb
 Size: 69838
 MD5sum: 3039d72dac3329b64cddac0444e0d3f4
 SHA1: aaba7bed310a1643da9a28558d653bdd49a1c2a4
@@ -2367,7 +2347,7 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 552
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.motuumls_0.1.5_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_0.1.5_iphoneos-arm.deb
 Size: 69840
 MD5sum: 7d07022e471094d6df8b3139e92d6b75
 SHA1: dce4ecb3a6adec9d61d8df425f1141a3e03c4a7b
@@ -2385,7 +2365,7 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 556
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.motuumls_0.1.7_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_0.1.7_iphoneos-arm.deb
 Size: 69928
 MD5sum: 21b048690d15a041a9e7e3b7809cf403
 SHA1: f105dfe3c0e02a8922094b5f6013ae48aff445b2
@@ -2403,7 +2383,7 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 556
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.motuumls_0.1.9_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_0.1.9_iphoneos-arm.deb
 Size: 70174
 MD5sum: c336a9c00f9a6466035ae9d3fe19c315
 SHA1: 49858db0b00d05d8a9c69d971972aef66c79f508
@@ -2421,7 +2401,7 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 664
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.motuumls_2.0.5_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_2.0.5_iphoneos-arm.deb
 Size: 105080
 MD5sum: cc30c2521c44f7d85ccadbf61c1e40bc
 SHA1: afa9d6623e0e89d736e9ba5af491a05fe709a155
@@ -2439,7 +2419,7 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 664
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.motuumls_2.0.6_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_2.0.6_iphoneos-arm.deb
 Size: 104964
 MD5sum: 52644d23776f9cb057084d88b168c6fd
 SHA1: c9f2c5de7571f9c8ffb8a6cd207d3ea823b752ba
@@ -2457,7 +2437,7 @@ Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 664
 Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.motuumls_2.0.9_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.motuumls_2.0.9_iphoneos-arm.deb
 Size: 103968
 MD5sum: 4aab1738ea67e93d5d6157d07028c266
 SHA1: e2b5f6969e1f51ea265fce52d209ccfc32a7d5ca
@@ -2474,7 +2454,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.2_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.nodropsheet_0.0.2_iphoneos-arm.deb
 Size: 5124
 MD5sum: 02d95ee40466e4735debe9a968ec98d0
 SHA1: eb3a29ce4cec59edc13b127a55839e8feeedb8fc
@@ -2491,7 +2471,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.nodropsheet_0.0.3_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.nodropsheet_0.0.3_iphoneos-arm.deb
 Size: 5144
 MD5sum: 7ca40707973abd7e38c800458b2eb63c
 SHA1: 1395569b5228ab66b222e698afb26d383ffb73ba
@@ -2508,7 +2488,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.2_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.predictionstickaround_0.0.2_iphoneos-arm.deb
 Size: 3096
 MD5sum: 43808537ab31ef3c76ade48631f9d068
 SHA1: 4b69f2c2fb3efd8d2ac8d12c30097407dd510a13
@@ -2525,7 +2505,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.creaturesurvive.predictionstickaround_0.0.3_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.predictionstickaround_0.0.3_iphoneos-arm.deb
 Size: 3106
 MD5sum: 973152df7451e15077a313ede7744469
 SHA1: 4d25255264a7c4e1fbb903b52f7750ec0230a858
@@ -2542,7 +2522,7 @@ Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Installed-Size: 980
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.creaturesurvive.sera_0.6.7_iphoneos-arm.deb
+Filename: debs/com.creaturesurvive.sera_0.6.7_iphoneos-arm.deb
 Size: 240300
 MD5sum: 31d17d489bcb8a4eb439049cd0270395
 SHA1: be2a91ce71b9aaa02be83f6c84b31ccb1e211b21
